@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <!-- <preference for="Magento\Catalog\Api\Data\CategoryInterface" type="Rohit\Tate\Api\Data\CustomCategoryInterface" /> -->
+
+    <type name="Magento\Catalog\Model\Product">
+        <plugin name="appendOnSale" type="Rohit\Tate\Plugin\Product"  disabled="false"/>
+    </type>
+
+    <type name="Magento\Theme\Block\Html\Footer">
+        <plugin name="changeCopyrightText" type="Rohit\Tate\Plugin\Copyrightplugin" />
+    </type>
+
+    <type name="Magento\Theme\Block\Html\Header">
+        <plugin name="changeWelcomeMessage" type="Rohit\Tate\Plugin\Header" />
+    </type>
+
+
+    <type name="Magento\Theme\Block\Html\Breadcrumbs">
+        <plugin name="appendBreadcrumb" type="Rohit\Tate\Plugin\Breadcrumbs" disabled="false"/>
+    </type>
+
+    <type name="Magento\Catalog\Block\Product\View\Description">
+        <plugin name="custom_modify_product_description" type="Rohit\Tate\Plugin\ModifyProductDescription" />
+    </type>
+
+    <type name="Magento\Catalog\Block\Product\View\Description">
+        <plugin name="Rohit_Tate_modify_product_description" type="Rohit\Tate\Plugin\ModifyProductDescription" />
+    </type>
+
+</config>

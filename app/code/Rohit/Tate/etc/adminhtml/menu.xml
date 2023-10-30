@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Rohit_Tate::userstory5" title="userstory5" module="Rohit_Tate" sortOrder="20"  resource="Rohit_Tate::userstory5" action="userstory5/access"/>
+    </menu>
+
+    <menu>
+        <add id="Rohit_Tate::custom_menu" title="Custom Menu" module="Rohit_Tate" sortOrder="200" resource="Magento_Backend::content" />
+
+        <add id="Rohit_Tate::custom_submenu" title="Custom Submenu" module="Rohit_Tate" sortOrder="10" parent="Rohit_Tate::custom_menu" action="userstory5/access/displaytext" resource="Magento_Backend::content"/>
+    </menu>
+
+</config>

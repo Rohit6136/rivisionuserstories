@@ -1,0 +1,2456 @@
+[2023-10-30T11:00:08.158644+00:00] main.INFO: HTML of Page: <!doctype html>
+<html lang="en">
+    <head >
+        <script>
+    var LOCALE = 'en\u002DUS';
+    var BASE_URL = 'http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002F';
+    var require = {
+        'baseUrl': 'http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US'
+    };</script>        <meta charset="utf-8"/>
+<meta name="title" content="yamaha"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="format-detection" content="telephone=no"/>
+<title>yamaha</title>
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/calendar.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/styles-m.css" />
+<link  rel="stylesheet" type="text/css"  media="screen and (min-width: 768px)" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/styles-l.css" />
+<link  rel="stylesheet" type="text/css"  media="print" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/print.css" />
+<link  rel="icon" type="image/x-icon" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico" />
+<link  rel="shortcut icon" type="image/x-icon" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico" />
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/requirejs/require.js"></script>
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/requirejs/mixins.js"></script>
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/requirejs-config.js"></script>
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2" />
+            <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_PageCache/js/form-key-provider": {
+                    "isPaginationCacheEnabled":
+                        0                }
+            }
+        }
+    </script>
+    </head>
+    <body data-container="body"
+          data-mage-init='{"loaderAjax": {}, "loader": { "icon": "http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/images/loader-2.gif"}}'
+        id="html-body" class="page-with-filter page-products categorypath-yamaha category-yamaha page-layout-2columns-left catalog-category-view page-layout-category-full-width">
+        
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_PageBuilder/js/widget-initializer": {
+                "config": {"[data-content-type=\"slider\"][data-appearance=\"default\"]":{"Magento_PageBuilder\/js\/content-type\/slider\/appearance\/default\/widget":false},"[data-content-type=\"map\"]":{"Magento_PageBuilder\/js\/content-type\/map\/appearance\/default\/widget":false},"[data-content-type=\"row\"]":{"Magento_PageBuilder\/js\/content-type\/row\/appearance\/default\/widget":false},"[data-content-type=\"tabs\"]":{"Magento_PageBuilder\/js\/content-type\/tabs\/appearance\/default\/widget":false},"[data-content-type=\"slide\"]":{"Magento_PageBuilder\/js\/content-type\/slide\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-slide-button","showOverlay":"hover","dataRole":"slide"}},"[data-content-type=\"banner\"]":{"Magento_PageBuilder\/js\/content-type\/banner\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-banner-button","showOverlay":"hover","dataRole":"banner"}},"[data-content-type=\"buttons\"]":{"Magento_PageBuilder\/js\/content-type\/buttons\/appearance\/inline\/widget":false},"[data-content-type=\"products\"][data-appearance=\"carousel\"]":{"Magento_PageBuilder\/js\/content-type\/products\/appearance\/carousel\/widget":false}},
+                "breakpoints": {"desktop":{"label":"Desktop","stage":true,"default":true,"class":"desktop-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-desktop.svg","conditions":{"min-width":"1024px"},"options":{"products":{"default":{"slidesToShow":"5"}}}},"tablet":{"conditions":{"max-width":"1024px","min-width":"768px"},"options":{"products":{"default":{"slidesToShow":"4"},"continuous":{"slidesToShow":"3"}}}},"mobile":{"label":"Mobile","stage":true,"class":"mobile-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-mobile.svg","media":"only screen and (max-width: 768px)","conditions":{"max-width":"768px","min-width":"640px"},"options":{"products":{"default":{"slidesToShow":"3"}}}},"mobile-small":{"conditions":{"max-width":"640px"},"options":{"products":{"default":{"slidesToShow":"2"},"continuous":{"slidesToShow":"1"}}}}}            }
+        }
+    }
+</script>
+
+<div class="cookie-status-message" id="cookie-status">
+    The store will not work correctly when cookies are disabled.</div>
+<script type="text&#x2F;javascript">document.querySelector("#cookie-status").style.display = "none";</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "cookieStatus": {}
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "\u002F",
+                "domain": ".rohit.magento.com",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>
+                        For the best experience on our site, be sure to turn on Javascript in your browser.                    </span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script>
+    window.cookiesConfig = window.cookiesConfig || {};
+    window.cookiesConfig.secure = false;
+</script><script>    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce5Adapter'
+            }
+        }
+    });</script><script>
+    require.config({
+        paths: {
+            googleMaps: 'https\u003A\u002F\u002Fmaps.googleapis.com\u002Fmaps\u002Fapi\u002Fjs\u003Fv\u003D3\u0026key\u003D'
+        },
+        config: {
+            'Magento_PageBuilder/js/utils/map': {
+                style: ''
+            },
+            'Magento_PageBuilder/js/content-type/map/preview': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+            'Magento_PageBuilder/js/form/element/map': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+        }
+    });
+</script>
+
+<script>
+    require.config({
+        shim: {
+            'Magento_PageBuilder/js/utils/map': {
+                deps: ['googleMaps']
+            }
+        }
+    });
+</script>
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea"
+   href="#contentarea">
+    <span>
+        Skip to Content    </span>
+</a>
+<ul class="header links">    <li class="greet welcome" data-bind="scope: 'customer'">
+        <!-- ko if: customer().fullname  -->
+        <span class="logged-in"
+              data-bind="text: new String('Welcome, %1!').
+              replace('%1', customer().fullname)">
+        </span>
+        <!-- /ko -->
+        <!-- ko ifnot: customer().fullname  -->
+        <span class="not-logged-in"
+              data-bind="text: 'New rohit welcome message'"></span>
+                <!-- /ko -->
+    </li>
+        <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "customer": {
+                            "component": "Magento_Customer/js/view/customer"
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+<li class="link authorization-link" data-label="or">
+    <a href="http://rohit.magento.com/index.php/customer/account/login/"        >Sign In</a>
+</li>
+<li><a href="http://rohit.magento.com/index.php/customer/account/create/" id="idIerWMeWQ" >Create an Account</a></li></ul></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+<a
+    class="logo"
+    href="http://rohit.magento.com/index.php/"
+    title=""
+    aria-label="store logo">
+    <img src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/images/logo.svg"
+         title=""
+         alt=""
+            width="170"                />
+</a>
+
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="http://rohit.magento.com/index.php/checkout/cart/"
+       data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty empty"
+              data-bind="css: { empty: !!getCartParam('summary_count') == false && !isLoading() },
+               blockLoader: isLoading">
+            <span class="counter-number">
+                <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                <!-- /ko -->
+            </span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+        </span>
+    </a>
+            <div class="block block-minicart"
+             data-role="dropdownDialog"
+             data-mage-init='{"dropdownDialog":{
+                "appendTo":"[data-block=minicart]",
+                "triggerTarget":".showcart",
+                "timeout": "2000",
+                "closeOnMouseLeave": false,
+                "closeOnEscape": true,
+                "triggerClass":"active",
+                "parentClass":"active",
+                "buttons":[]}}'>
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>window.checkout = {"shoppingCartUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/cart\/","checkoutUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/","updateItemQtyUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"http:\/\/rohit.magento.com\/index.php\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","storeGroupId":"1","customerLoginUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"http:\/\/rohit.magento.com\/index.php\/captcha\/refresh\/","isRequired":false,"timestamp":1698663607}}}</script>    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"Magento_Checkout\/js\/view\/cart-item-renderer","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+        }
+    }
+    </script>
+</div>
+<div class="block block-search">
+    <div class="block block-title"><strong>Search</strong></div>
+    <div class="block block-content">
+        <form class="form minisearch" id="search_mini_form"
+              action="http://rohit.magento.com/index.php/catalogsearch/result/" method="get">
+                        <div class="field search">
+                <label class="label" for="search" data-role="minisearch-label">
+                    <span>Search</span>
+                </label>
+                <div class="control">
+                    <input id="search"
+                           data-mage-init='{
+                            "quickSearch": {
+                                "formSelector": "#search_mini_form",
+                                "url": "http://rohit.magento.com/index.php/search/ajax/suggest/",
+                                "destinationSelector": "#search_autocomplete",
+                                "minSearchLength": "3"
+                            }
+                        }'
+                           type="text"
+                           name="q"
+                           value=""
+                           placeholder="Search&#x20;entire&#x20;store&#x20;here..."
+                           class="input-text"
+                           maxlength="128"
+                           role="combobox"
+                           aria-haspopup="false"
+                           aria-autocomplete="both"
+                           autocomplete="off"
+                           aria-expanded="false"/>
+                    <div id="search_autocomplete" class="search-autocomplete"></div>
+                    <div class="nested">
+    <a class="action advanced" href="http://rohit.magento.com/index.php/catalogsearch/advanced/" data-action="advanced-search">
+        Advanced Search    </a>
+</div>
+                </div>
+            </div>
+            <div class="actions">
+                <button type="submit"
+                        title="Search"
+                        class="action search"
+                        aria-label="Search"
+                >
+                    <span>Search</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<ul class="compare wrapper"><li class="item link compare" data-bind="scope: 'compareProducts'" data-role="compare-products-link">
+    <a class="action compare no-display" title="Compare&#x20;Products"
+       data-bind="attr: {'href': compareProducts().listUrl}, css: {'no-display': !compareProducts().count}"
+    >
+        Compare Products        <span class="counter qty" data-bind="text: compareProducts().countCaption"></span>
+    </a>
+</li>
+<script type="text/x-magento-init">
+{"[data-role=compare-products-link]": {"Magento_Ui/js/core/app": {"components":{"compareProducts":{"component":"Magento_Catalog\/js\/view\/compare-products"}}}}}
+</script>
+</ul></div></header>    <div class="sections nav-sections">
+                <div class="section-items nav-sections-items"
+             data-mage-init='{"tabs":{"openedState":"active"}}'>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.menu">
+                        Menu                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.menu"
+                     data-role="content">
+                    
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first active level-top parent"><a href="http://rohit.magento.com/index.php/yamaha.html"  class="level-top" ><span>yamaha</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first last"><a href="http://rohit.magento.com/index.php/yamaha/sports-bike.html" ><span>sports bike</span></a></li></ul></li><li  class="level0 nav-2 category-item last level-top"><a href="http://rohit.magento.com/index.php/hoodies.html"  class="level-top" ><span>Hoodies</span></a></li>            </ul>
+</nav>
+                </div>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.links">
+                        Account                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.links"
+                     data-role="content">
+                    <!-- Account links -->                </div>
+                                    </div>
+    </div>
+<div class="breadcrumbs">
+    <ul class="items">
+                    <li class="item home">
+                            <a href="http://rohit.magento.com/index.php/"
+                   title="Go to Home Page">
+                    Hummingbird Home                </a>
+                        </li>
+                    <li class="item category3">
+                            <strong>Hummingbird yamaha</strong>
+                        </li>
+            </ul>
+</div>
+<div class="page-main"><div class="page-title-wrapper">
+    <h1 class="page-title"
+         id="page-title-heading"                     aria-labelledby="page-title-heading&#x20;toolbar-amount"
+        >
+        <span class="base" data-ui-id="page-title-wrapper" >yamaha</span>    </h1>
+    </div>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div aria-atomic="true" role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div aria-atomic="true" role="alert" class="messages" data-bind="foreach: {
+        data: messages().messages, as: 'message'
+    }">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div></div><div class="category-view"><div class="page-main"><div class="category-image"><img src="http://rohit.magento.com/media/catalog/category/download_1.jpeg" alt="yamaha" title="yamaha" class="image" /></div></div></div><main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="columns"><div class="column main"><input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" /><div id="authenticationPopup" data-bind="scope:'authenticationPopup', style: {display: 'none'}">
+        <script>window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/create\/","customerForgotPasswordUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/forgotpassword\/","baseUrl":"http:\/\/rohit.magento.com\/index.php\/","customerLoginUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/ajax\/login\/"}</script>    <!-- ko template: getTemplate() --><!-- /ko -->
+        <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+                            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/section-config": {
+                "sections": {"stores\/store\/switch":["*"],"stores\/store\/switchrequest":["*"],"directory\/currency\/switch":["*"],"*":["messages"],"customer\/account\/logout":["*","recently_viewed_product","recently_compared_product","persistent"],"customer\/account\/loginpost":["*"],"customer\/account\/createpost":["*"],"customer\/account\/editpost":["*"],"customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart","directory-data"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","last-ordered-items","instant-purchase","captcha"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","captcha"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"review\/product\/post":["review"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"braintree\/googlepay\/placeorder":["cart","checkout-data"]},
+                "clientSideSections": ["checkout-data","cart-data"],
+                "baseUrls": ["http:\/\/rohit.magento.com\/index.php\/"],
+                "sectionNames": ["messages","customer","compare-products","last-ordered-items","cart","directory-data","instant-purchase","loggedAsCustomer","captcha","persistent","review","wishlist","recently_viewed_product","recently_compared_product","product_data_storage","paypal-billing-agreement"]            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/customer-data": {
+                "sectionLoadUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fcustomer\u002Fsection\u002Fload\u002F",
+                "expirableSectionLifetime": 60,
+                "expirableSectionNames": ["cart","persistent"],
+                "cookieLifeTime": "3600",
+                "updateSessionUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fcustomer\u002Faccount\u002FupdateSession\u002F"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/invalidation-processor": {
+                "invalidationRules": {
+                    "website-rule": {
+                        "Magento_Customer/js/invalidation-rules/website-rule": {
+                            "scopeConfig": {
+                                "websiteId": "1"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"http:\/\/rohit.magento.com\/index.php\/page_cache\/block\/render\/id\/3\/","handles":["default","catalog_category_view","catalog_category_view_type_layered","catalog_category_view_displaymode_products","catalog_category_view_id_3"],"originalRequest":{"route":"catalog","controller":"category","action":"view","uri":"\/index.php\/yamaha.html"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+<p>This is displayed on all pages.</p>
+                <div class="toolbar toolbar-products" data-mage-init='{"productListToolbarForm":{"mode":"product_list_mode","direction":"product_list_dir","order":"product_list_order","limit":"product_list_limit","modeDefault":"grid","directionDefault":"asc","orderDefault":"position","limitDefault":12,"url":"http:\/\/rohit.magento.com\/index.php\/yamaha.html","formKey":"KpXCHWdzehadaMP1","post":false}}'>
+                                        <div class="modes">
+                            <strong class="modes-label" id="modes-label">View as</strong>
+                                                <strong title="Grid"
+                            class="modes-mode active mode-grid"
+                            data-value="grid">
+                        <span>Grid</span>
+                    </strong>
+                                                                <a class="modes-mode mode-list"
+                       title="List"
+                       href="#"
+                       data-role="mode-switcher"
+                       data-value="list"
+                       id="mode-list"
+                       aria-labelledby="modes-label mode-list">
+                        <span>List</span>
+                    </a>
+                                        </div>
+                        <p class="toolbar-amount" id="toolbar-amount">
+            <span class="toolbar-number">1</span> Item    </p>
+                            <div class="toolbar-sorter sorter">
+    <label class="sorter-label" for="sorter">Sort By</label>
+    <select id="sorter" data-role="sorter" class="sorter-options">
+                    <option value="position"
+                                    selected="selected"
+                                >
+                Position            </option>
+                    <option value="name"
+                                >
+                Product Name            </option>
+                    <option value="price"
+                                >
+                Price            </option>
+            </select>
+            <a title="Set&#x20;Descending&#x20;Direction"
+           href="#"
+           class="action sorter-action sort-asc"
+           data-role="direction-switcher"
+           data-value="desc">
+            <span>Set Descending Direction</span>
+        </a>
+    </div>
+                        </div>
+    <script type="text/x-magento-init">
+    {
+        "body": {
+            "addToWishlist": {"productType":["simple","virtual","bundle","downloadable","configurable","grouped"]}        }
+    }
+</script>
+        <div class="products wrapper grid products-grid">
+        <ol class="products list items product-items">
+                                    <li class="item product product-item">
+                <div class="product-item-info"
+                     id="product-item-info_1"
+                     data-container="product-grid">
+                                                            <a href="http://rohit.magento.com/index.php/rohit.html"
+                       class="product photo product-item-photo"
+                       tabindex="-1">
+                        <span class="product-image-container product-image-container-1">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Rohit&#x20;On&#x20;Sale&#x21;"/></span>
+</span>
+<style>.product-image-container-1 {
+    width: 240px;
+}
+.product-image-container-1 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                    </a>
+                    <div class="product details product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link"
+                               href="http://rohit.magento.com/index.php/rohit.html">
+                                Rohit On Sale!                            </a>
+                        </strong>
+                                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="product-price-1"                data-price-amount="10"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.00</span></span>
+        </span>
+
+</div>
+                        
+                        <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form"
+                                              data-product-sku="Rohit"
+                                              action="http://rohit.magento.com/index.php/checkout/cart/add/uenc/aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC95YW1haGEuaHRtbA~~/product/1/"
+                                              data-mage-init='{"catalogAddToCart": {}}'
+                                              method="post">
+                                                                                                                                    <input type="hidden"
+                                                   name="product"
+                                                   value="1">
+                                            <input type="hidden"
+                                                   name="uenc"
+                                                   value="aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDNKdmFHbDBMbTFoWjJWdWRHOHVZMjl0TDJsdVpHVjRMbkJvY0M5NVlXMWhhR0V1YUhSdGJBfn4vcHJvZHVjdC8xLw~~">
+                                            <input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" />                                            <button type="submit"
+                                                    title="Add&#x20;to&#x20;Cart"
+                                                    class="action tocart primary"
+                                                    disabled>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                                                <div data-role="add-to-links" class="actions-secondary">
+                                                                                <a href="#"
+       class="action towishlist"
+       title="Add&#x20;to&#x20;Wish&#x20;List"
+       aria-label="Add&#x20;to&#x20;Wish&#x20;List"
+       data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/wishlist\/index\/add\/","data":{"product":1,"uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC95YW1haGEuaHRtbA~~"}}'
+       data-action="add-to-wishlist"
+       role="button">
+        <span>Add to Wish List</span>
+    </a>
+<a href="#"
+   class="action tocompare"
+   title="Add to Compare"
+   aria-label="Add to Compare"
+   data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC95YW1haGEuaHRtbA~~"}}'
+   role="button">
+    <span>Add to Compare</span>
+</a>
+                                                                    </div>
+                                                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            </li>
+                    </ol>
+    </div>
+            <div class="toolbar toolbar-products" data-mage-init='{"productListToolbarForm":{"mode":"product_list_mode","direction":"product_list_dir","order":"product_list_order","limit":"product_list_limit","modeDefault":"grid","directionDefault":"asc","orderDefault":"position","limitDefault":12,"url":"http:\/\/rohit.magento.com\/index.php\/yamaha.html","formKey":"KpXCHWdzehadaMP1","post":false}}'>
+                    
+    
+        
+        
+    
+    
+            <div class="field limiter">
+    <label class="label" for="limiter">
+        <span>Show</span>
+    </label>
+    <div class="control">
+        <select id="limiter" data-role="limiter" class="limiter-options">
+                            <option value="12"
+                                            selected="selected"
+                    >
+                    12                </option>
+                            <option value="24"
+                    >
+                    24                </option>
+                            <option value="36"
+                    >
+                    36                </option>
+                    </select>
+    </div>
+    <span class="limiter-text">per page</span>
+</div>
+            </div>
+    <script type="text/x-magento-init">
+    {
+        "body": {
+            "requireCookie": {"noCookieUrl":"http:\/\/rohit.magento.com\/index.php\/cookie\/index\/noCookies\/","triggers":[".action.towishlist"],"isRedirectCmsPage":true}        }
+    }
+</script>
+</div><div class="sidebar sidebar-main">
+</div><div class="sidebar sidebar-additional"><div class="block block-compare" data-bind="scope: 'compareProducts'" data-role="compare-products-sidebar">
+    <div class="block-title">
+        <strong id="block-compare-heading" role="heading" aria-level="2">Compare Products</strong>
+        <span class="counter qty no-display" data-bind="text: compareProducts().countCaption, css: {'no-display': !compareProducts().count}"></span>
+    </div>
+    <!-- ko if: compareProducts().count -->
+    <div class="block-content no-display" aria-labelledby="block-compare-heading" data-bind="css: {'no-display': !compareProducts().count}">
+        <ol id="compare-items" class="product-items product-items-names" data-bind="foreach: compareProducts().items">
+                <li class="product-item">
+                    <input type="hidden" class="compare-item-id" data-bind="value: id"/>
+                    <strong class="product-item-name">
+                        <a data-bind="attr: {href: product_url}, html: name" class="product-item-link"></a>
+                    </strong>
+                    <a href="#"
+                       data-bind="attr: {'data-post': remove_url}"
+                       title="Remove&#x20;This&#x20;Item"
+                       class="action delete">
+                        <span>Remove This Item</span>
+                    </a>
+                </li>
+        </ol>
+        <div class="actions-toolbar">
+            <div class="primary">
+                <a data-bind="attr: {'href': compareProducts().listUrl}" class="action compare primary"><span>Compare</span></a>
+            </div>
+            <div class="secondary">
+                <a id="compare-clear-all" href="#" class="action clear" data-post="{&quot;action&quot;:&quot;http:\/\/rohit.magento.com\/index.php\/catalog\/product_compare\/clear\/&quot;,&quot;data&quot;:{&quot;uenc&quot;:&quot;&quot;,&quot;confirmation&quot;:true,&quot;confirmationMessage&quot;:&quot;Are you sure you want to remove all items from your Compare Products list?&quot;}}">
+                    <span>Clear All</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- /ko -->
+    <!-- ko ifnot: compareProducts().count -->
+    <div class="empty">You have no items to compare.</div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+{"[data-role=compare-products-sidebar]": {"Magento_Ui/js/core/app": {"components":{"compareProducts":{"component":"Magento_Catalog\/js\/view\/compare-products"}}}}}
+</script>
+    <div class="block block-wishlist" data-bind="scope: 'wishlist'">
+        <div class="block-title">
+            <strong role="heading" aria-level="2">My Wish List</strong>
+            <!-- ko if: wishlist().counter -->
+            <span data-bind="text: wishlist().counter" class="counter"></span>
+            <!-- /ko -->
+        </div>
+        <div class="block-content">
+            <strong class="subtitle">Last Added Items</strong>
+            <!-- ko if: wishlist().counter -->
+                <ol class="product-items no-display"
+                    id="wishlist-sidebar"
+                    data-bind="foreach: wishlist().items, css: {'no-display': null}">
+                    <li class="product-item">
+                        <div class="product-item-info">
+                            <a class="product-item-photo" data-bind="attr: { href: product_url, title: product_name }">
+                                <!-- ko template: {name: $data.image.template, data: $data.image} --><!-- /ko -->
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a data-bind="attr: { href: product_url }" class="product-item-link">
+                                        <span data-bind="text: product_name"></span>
+                                    </a>
+                                </strong>
+                                <div data-bind="html: product_price"></div>
+                                <div class="product-item-actions">
+                                    <!-- ko if: product_is_saleable_and_visible -->
+                                    <div class="actions-primary">
+                                        <!-- ko if: product_has_required_options -->
+                                        <a href="#"
+                                           data-bind="attr: {'data-post': add_to_cart_params}"
+                                           class="action tocart primary">
+                                            <span>Add to Cart</span>
+                                        </a>
+                                        <!-- /ko -->
+                                        <!-- ko ifnot: product_has_required_options -->
+                                            <button type="button"
+                                                    class="action tocart primary"
+                                                    data-bind="attr: {'data-post': add_to_cart_params}">
+                                                <span>Add to Cart</span>
+                                            </button>
+                                        <!-- /ko -->
+                                    </div>
+                                    <!-- /ko -->
+                                    <div class="actions-secondary">
+                                        <a href="#"  data-bind="attr: {'data-post': delete_item_params}"
+                                           title="Remove&#x20;This&#x20;Item"
+                                           class="btn-remove action delete">
+                                            <span>Remove This Item</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ol>
+                <div class="actions-toolbar no-display" data-bind="css: {'no-display': null}">
+                    <div class="primary">
+                        <a class="action details"
+                           href="http://rohit.magento.com/index.php/wishlist/"
+                           title="Go&#x20;to&#x20;Wish&#x20;List">
+                            <span>Go to Wish List</span>
+                        </a>
+                    </div>
+                </div>
+            <!-- /ko -->
+            <!-- ko ifnot: wishlist().counter -->
+                <div class="empty">You have no items in your wish list.</div>
+            <!-- /ko -->
+        </div>
+    </div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "wishlist": {
+                        "component": "Magento_Wishlist/js/view/wishlist"
+                    }
+                }
+            }
+        }
+    }
+</script>
+</div></div></main><footer class="page-footer"><div class="footer content"><div class="block newsletter">
+    <div class="title"><strong>Newsletter</strong></div>
+    <div class="content">
+        <form class="form subscribe"
+            novalidate
+            action="http://rohit.magento.com/index.php/newsletter/subscriber/new/"
+            method="post"
+            data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+            id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <div class="control">
+                    <label for="newsletter">
+                        <span class="label">
+                            Sign Up for Our Newsletter:                        </span>
+                        <input name="email" type="email" id="newsletter"
+                               placeholder="Enter your email address"
+                               data-mage-init='{"mage/trim-input":{}}'
+                               data-validate="{required:true, 'validate-email':true}"
+                        />
+                    </label>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="action subscribe primary"
+                        title="Subscribe"
+                        type="submit"
+                        aria-label="Subscribe">
+                    <span>Subscribe</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/block-submit-on-send": {
+                "formId": "newsletter-validate-detail"
+            }
+        }
+    }
+</script>
+<ul class="footer links"><li class="nav item"><a href="http://rohit.magento.com/index.php/privacy-policy-cookie-restriction-mode/">Privacy and Cookie Policy</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/search/term/popular/">Search Terms</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/catalogsearch/advanced/" data-action="advanced-search">Advanced Search</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/sales/guest/form/">Orders and Returns</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/contact/">Contact Us</a></li></ul><div class="switcher store switcher-store" id="switcher-store">
+    <strong class="label switcher-label"><span>Select Store</span></strong>
+    <div class="actions dropdown options switcher-options">
+                                    <div class="action toggle switcher-trigger"
+                     role="button"
+                     tabindex="0"
+                     data-mage-init='{"dropdown":{}}'
+                     data-toggle="dropdown"
+                     data-trigger-keypress-button="true"
+                     id="switcher-store-trigger">
+                    <strong>
+                        <span>Main Website Store</span>
+                    </strong>
+                </div>
+                                                <ul class="dropdown switcher-dropdown" data-target="dropdown">
+                                                                            <li class="switcher-option">
+                        <a href="#" data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/stores\/store\/redirect\/","data":{"___store":"userstories","___from_store":"default","uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC95YW1haGEuaHRtbD9fX19zdG9yZT11c2Vyc3Rvcmllcw~~"}}'>
+                            userstories                        </a>
+                    </li>
+                                    </ul>
+    </div>
+</div>
+</div></footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" : {"recently_viewed_product":{"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"http:\/\/rohit.magento.com\/index.php\/rest\/default\/V1\/products-render-info"},"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+<small class="copyright">
+    <span>New rohit copyright text</span>
+</small>
+</div>    </body>
+</html>
+ [] []
+[2023-10-30T11:00:08.159901+00:00] main.INFO: List of Routers: Magento\Robots\Controller\Router\Interceptor, Magento\Securitytxt\Controller\Router\Interceptor, Magento\UrlRewrite\Controller\Router\Interceptor, Magento\Framework\App\Router\Base\Interceptor, Magento\Cms\Controller\Router\Interceptor, Magento\Framework\App\Router\DefaultRouter\Interceptor [] []
+[2023-10-30T11:00:10.343347+00:00] main.INFO: Product Viewed: Rohit On Sale! [] []
+[2023-10-30T11:00:10.388000+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-10-30T11:00:10.388296+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-10-30T11:00:10.388567+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2023-10-30T11:00:10.389135+00:00] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2023-10-30T11:00:10.389393+00:00] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
+[2023-10-30T11:00:11.060605+00:00] main.INFO: HTML of Page: <!doctype html>
+<html lang="en">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
+        <script>
+    var LOCALE = 'en\u002DUS';
+    var BASE_URL = 'http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002F';
+    var require = {
+        'baseUrl': 'http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US'
+    };</script>        <meta charset="utf-8"/>
+<meta name="title" content="Rohit"/>
+<meta name="description" content="Rohit "/>
+<meta name="keywords" content="Rohit"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="format-detection" content="telephone=no"/>
+<title>Rohit</title>
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/calendar.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/styles-m.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/gallery/gallery.css" />
+<link  rel="stylesheet" type="text/css"  media="screen and (min-width: 768px)" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/styles-l.css" />
+<link  rel="stylesheet" type="text/css"  media="print" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/print.css" />
+<link  rel="icon" type="image/x-icon" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico" />
+<link  rel="shortcut icon" type="image/x-icon" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico" />
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/requirejs/require.js"></script>
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/requirejs/mixins.js"></script>
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/requirejs-config.js"></script>
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2" />
+            <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_PageCache/js/form-key-provider": {
+                    "isPaginationCacheEnabled":
+                        0                }
+            }
+        }
+    </script>
+
+<meta property="og:type" content="product" />
+<meta property="og:title"
+      content="Rohit&#x20;On&#x20;Sale&#x21;" />
+<meta property="og:image"
+      content="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/image.jpg" />
+<meta property="og:description"
+      content="" />
+<meta property="og:url" content="http://rohit.magento.com/index.php/rohit.html" />
+    <meta property="product:price:amount" content="10"/>
+    <meta property="product:price:currency"
+      content="USD"/>
+    </head>
+    <body data-container="body"
+          data-mage-init='{"loaderAjax": {}, "loader": { "icon": "http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/images/loader-2.gif"}}'
+        id="html-body" itemtype="http://schema.org/Product" itemscope="itemscope" class="catalog-product-view product-rohit categorypath-yamaha category-yamaha page-layout-1column page-layout-product-full-width">
+        
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_PageBuilder/js/widget-initializer": {
+                "config": {"[data-content-type=\"slider\"][data-appearance=\"default\"]":{"Magento_PageBuilder\/js\/content-type\/slider\/appearance\/default\/widget":false},"[data-content-type=\"map\"]":{"Magento_PageBuilder\/js\/content-type\/map\/appearance\/default\/widget":false},"[data-content-type=\"row\"]":{"Magento_PageBuilder\/js\/content-type\/row\/appearance\/default\/widget":false},"[data-content-type=\"tabs\"]":{"Magento_PageBuilder\/js\/content-type\/tabs\/appearance\/default\/widget":false},"[data-content-type=\"slide\"]":{"Magento_PageBuilder\/js\/content-type\/slide\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-slide-button","showOverlay":"hover","dataRole":"slide"}},"[data-content-type=\"banner\"]":{"Magento_PageBuilder\/js\/content-type\/banner\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-banner-button","showOverlay":"hover","dataRole":"banner"}},"[data-content-type=\"buttons\"]":{"Magento_PageBuilder\/js\/content-type\/buttons\/appearance\/inline\/widget":false},"[data-content-type=\"products\"][data-appearance=\"carousel\"]":{"Magento_PageBuilder\/js\/content-type\/products\/appearance\/carousel\/widget":false}},
+                "breakpoints": {"desktop":{"label":"Desktop","stage":true,"default":true,"class":"desktop-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-desktop.svg","conditions":{"min-width":"1024px"},"options":{"products":{"default":{"slidesToShow":"5"}}}},"tablet":{"conditions":{"max-width":"1024px","min-width":"768px"},"options":{"products":{"default":{"slidesToShow":"4"},"continuous":{"slidesToShow":"3"}}}},"mobile":{"label":"Mobile","stage":true,"class":"mobile-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-mobile.svg","media":"only screen and (max-width: 768px)","conditions":{"max-width":"768px","min-width":"640px"},"options":{"products":{"default":{"slidesToShow":"3"}}}},"mobile-small":{"conditions":{"max-width":"640px"},"options":{"products":{"default":{"slidesToShow":"2"},"continuous":{"slidesToShow":"1"}}}}}            }
+        }
+    }
+</script>
+
+<div class="cookie-status-message" id="cookie-status">
+    The store will not work correctly when cookies are disabled.</div>
+<script type="text&#x2F;javascript">document.querySelector("#cookie-status").style.display = "none";</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "cookieStatus": {}
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "\u002F",
+                "domain": ".rohit.magento.com",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>
+                        For the best experience on our site, be sure to turn on Javascript in your browser.                    </span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script>
+    window.cookiesConfig = window.cookiesConfig || {};
+    window.cookiesConfig.secure = false;
+</script><script>    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce5Adapter'
+            }
+        }
+    });</script><script>
+    require.config({
+        paths: {
+            googleMaps: 'https\u003A\u002F\u002Fmaps.googleapis.com\u002Fmaps\u002Fapi\u002Fjs\u003Fv\u003D3\u0026key\u003D'
+        },
+        config: {
+            'Magento_PageBuilder/js/utils/map': {
+                style: ''
+            },
+            'Magento_PageBuilder/js/content-type/map/preview': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+            'Magento_PageBuilder/js/form/element/map': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+        }
+    });
+</script>
+
+<script>
+    require.config({
+        shim: {
+            'Magento_PageBuilder/js/utils/map': {
+                deps: ['googleMaps']
+            }
+        }
+    });
+</script>
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea"
+   href="#contentarea">
+    <span>
+        Skip to Content    </span>
+</a>
+<ul class="header links">    <li class="greet welcome" data-bind="scope: 'customer'">
+        <!-- ko if: customer().fullname  -->
+        <span class="logged-in"
+              data-bind="text: new String('Welcome, %1!').
+              replace('%1', customer().fullname)">
+        </span>
+        <!-- /ko -->
+        <!-- ko ifnot: customer().fullname  -->
+        <span class="not-logged-in"
+              data-bind="text: 'New rohit welcome message'"></span>
+                <!-- /ko -->
+    </li>
+        <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "customer": {
+                            "component": "Magento_Customer/js/view/customer"
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+<li class="link authorization-link" data-label="or">
+    <a href="http://rohit.magento.com/index.php/customer/account/login/"        >Sign In</a>
+</li>
+<li><a href="http://rohit.magento.com/index.php/customer/account/create/" id="idUTenHLsg" >Create an Account</a></li></ul></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+<a
+    class="logo"
+    href="http://rohit.magento.com/index.php/"
+    title=""
+    aria-label="store logo">
+    <img src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/images/logo.svg"
+         title=""
+         alt=""
+            width="170"                />
+</a>
+
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="http://rohit.magento.com/index.php/checkout/cart/"
+       data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty empty"
+              data-bind="css: { empty: !!getCartParam('summary_count') == false && !isLoading() },
+               blockLoader: isLoading">
+            <span class="counter-number">
+                <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                <!-- /ko -->
+            </span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+        </span>
+    </a>
+            <div class="block block-minicart"
+             data-role="dropdownDialog"
+             data-mage-init='{"dropdownDialog":{
+                "appendTo":"[data-block=minicart]",
+                "triggerTarget":".showcart",
+                "timeout": "2000",
+                "closeOnMouseLeave": false,
+                "closeOnEscape": true,
+                "triggerClass":"active",
+                "parentClass":"active",
+                "buttons":[]}}'>
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>window.checkout = {"shoppingCartUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/cart\/","checkoutUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/","updateItemQtyUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"http:\/\/rohit.magento.com\/index.php\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","storeGroupId":"1","customerLoginUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"http:\/\/rohit.magento.com\/index.php\/captcha\/refresh\/","isRequired":false,"timestamp":1698663610}}}</script>    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"Magento_Checkout\/js\/view\/cart-item-renderer","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+        }
+    }
+    </script>
+</div>
+<div class="block block-search">
+    <div class="block block-title"><strong>Search</strong></div>
+    <div class="block block-content">
+        <form class="form minisearch" id="search_mini_form"
+              action="http://rohit.magento.com/index.php/catalogsearch/result/" method="get">
+                        <div class="field search">
+                <label class="label" for="search" data-role="minisearch-label">
+                    <span>Search</span>
+                </label>
+                <div class="control">
+                    <input id="search"
+                           data-mage-init='{
+                            "quickSearch": {
+                                "formSelector": "#search_mini_form",
+                                "url": "http://rohit.magento.com/index.php/search/ajax/suggest/",
+                                "destinationSelector": "#search_autocomplete",
+                                "minSearchLength": "3"
+                            }
+                        }'
+                           type="text"
+                           name="q"
+                           value=""
+                           placeholder="Search&#x20;entire&#x20;store&#x20;here..."
+                           class="input-text"
+                           maxlength="128"
+                           role="combobox"
+                           aria-haspopup="false"
+                           aria-autocomplete="both"
+                           autocomplete="off"
+                           aria-expanded="false"/>
+                    <div id="search_autocomplete" class="search-autocomplete"></div>
+                    <div class="nested">
+    <a class="action advanced" href="http://rohit.magento.com/index.php/catalogsearch/advanced/" data-action="advanced-search">
+        Advanced Search    </a>
+</div>
+                </div>
+            </div>
+            <div class="actions">
+                <button type="submit"
+                        title="Search"
+                        class="action search"
+                        aria-label="Search"
+                >
+                    <span>Search</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<ul class="compare wrapper"><li class="item link compare" data-bind="scope: 'compareProducts'" data-role="compare-products-link">
+    <a class="action compare no-display" title="Compare&#x20;Products"
+       data-bind="attr: {'href': compareProducts().listUrl}, css: {'no-display': !compareProducts().count}"
+    >
+        Compare Products        <span class="counter qty" data-bind="text: compareProducts().countCaption"></span>
+    </a>
+</li>
+<script type="text/x-magento-init">
+{"[data-role=compare-products-link]": {"Magento_Ui/js/core/app": {"components":{"compareProducts":{"component":"Magento_Catalog\/js\/view\/compare-products"}}}}}
+</script>
+</ul></div></header>    <div class="sections nav-sections">
+                <div class="section-items nav-sections-items"
+             data-mage-init='{"tabs":{"openedState":"active"}}'>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.menu">
+                        Menu                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.menu"
+                     data-role="content">
+                    
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first active level-top parent"><a href="http://rohit.magento.com/index.php/yamaha.html"  class="level-top" ><span>yamaha</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first last"><a href="http://rohit.magento.com/index.php/yamaha/sports-bike.html" ><span>sports bike</span></a></li></ul></li><li  class="level0 nav-2 category-item last level-top"><a href="http://rohit.magento.com/index.php/hoodies.html"  class="level-top" ><span>Hoodies</span></a></li>            </ul>
+</nav>
+                </div>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.links">
+                        Account                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.links"
+                     data-role="content">
+                    <!-- Account links -->                </div>
+                                    </div>
+    </div>
+<div class="breadcrumbs"></div>
+<script type="text/x-magento-init">
+    {
+        ".breadcrumbs": {
+            "breadcrumbs": {"categoryUrlSuffix":".html","useCategoryPathInUrl":0,"product":"Rohit On Sale!"}        }
+    }
+</script>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div aria-atomic="true" role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div aria-atomic="true" role="alert" class="messages" data-bind="foreach: {
+        data: messages().messages, as: 'message'
+    }">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="columns"><div class="column main"><div class="product-info-main"><div class="page-title-wrapper&#x20;product">
+    <h1 class="page-title"
+                >
+        <span class="base" data-ui-id="page-title-wrapper" itemprop="name">Rohit On Sale!</span>    </h1>
+    </div>
+<p>This is displayed on all pages.</p>
+    <div class="product-reviews-summary empty">
+        <div class="reviews-actions">
+            <a class="action add" href="http://rohit.magento.com/index.php/rohit.html#review-form">
+                Be the first to review this product            </a>
+        </div>
+    </div>
+<div class="product-info-price"><div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+         itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <span  id="product-price-1"                data-price-amount="10"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.00</span></span>
+                <meta itemprop="price" content="10" />
+        <meta itemprop="priceCurrency" content="USD" />
+    </span>
+
+</div><div class="product-info-stock-sku">
+            <div class="stock available" title="Availability">
+            <span>In stock</span>
+        </div>
+    Modified Product Description: Modified Product Description: 
+<div class="product attribute sku">
+            <strong class="type">SKU</strong>
+        <div class="value" itemprop="sku">Rohit</div>
+</div>
+</div></div>
+
+<div class="product-add-form">
+    <form data-product-sku="Rohit"
+          action="http://rohit.magento.com/index.php/checkout/cart/add/uenc/aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s/product/1/" method="post"
+          id="product_addtocart_form">
+        <input type="hidden" name="product" value="1" />
+        <input type="hidden" name="selected_configurable_option" value="" />
+        <input type="hidden" name="related_product" id="related-products-field" value="" />
+        <input type="hidden" name="item"  value="1" />
+        <input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" />                            <div class="box-tocart">
+    <div class="fieldset">
+                <div class="field qty">
+            <label class="label" for="qty"><span>Qty</span></label>
+            <div class="control">
+                <input type="number"
+                       name="qty"
+                       id="qty"
+                       min="0"
+                       value="1"
+                       title="Qty"
+                       class="input-text qty"
+                       data-validate="{&quot;required-number&quot;:true,&quot;validate-item-quantity&quot;:{&quot;maxAllowed&quot;:10000}}"
+                       />
+            </div>
+        </div>
+                <div class="actions">
+            <button type="submit"
+                    title="Add&#x20;to&#x20;Cart"
+                    class="action primary tocart"
+                    id="product-addtocart-button" disabled>
+                <span>Add to Cart</span>
+            </button>
+            
+<div id="instant-purchase" data-bind="scope:'instant-purchase'">
+    <!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "#instant-purchase": {
+            "Magento_Ui/js/core/app": {"components":{"instant-purchase":{"component":"Magento_InstantPurchase\/js\/view\/instant-purchase","config":{"template":"Magento_InstantPurchase\/instant-purchase","buttonText":"Instant Purchase","purchaseUrl":"http:\/\/rohit.magento.com\/index.php\/instantpurchase\/button\/placeOrder\/"}}}}        }
+    }
+</script>
+        </div>
+    </div>
+</div>
+<script type="text/x-magento-init">
+    {
+        "#product_addtocart_form": {
+            "Magento_Catalog/js/validate-product": {}
+        }
+    }
+</script>
+        
+                    </form>
+</div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-1]": {
+            "priceBox": {
+                "priceConfig":  {"productId":"1","priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"tierPrices":[]}            }
+        }
+    }
+</script>
+<div class="product-social-links"><div class="product-addto-links" data-role="add-to-links">
+        <a href="#"
+       class="action towishlist"
+       data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/wishlist\/index\/add\/","data":{"product":1,"uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s"}}'
+       data-action="add-to-wishlist"><span>Add to Wish List</span></a>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "addToWishlist": {"productType":"simple"}        }
+    }
+</script>
+
+<a href="#" data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s"}}'
+        data-role="add-to-links"
+        class="action tocompare"><span>Add to Compare</span></a>
+
+</div>
+</div>Modified Product Description: Modified Product Description: 
+</div><div class="product media"><a id="gallery-prev-area" tabindex="-1"></a>
+<div class="action-skip-wrapper"><a class="action skip gallery-next-area"
+   href="#gallery-next-area">
+    <span>
+        Skip to the end of the images gallery    </span>
+</a>
+</div>
+
+<div class="gallery-placeholder _block-content-loading" data-gallery-role="gallery-placeholder">
+    <img
+        alt="main product photo"
+        class="gallery-placeholder__image"
+        src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/image.jpg"
+    />
+</div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-gallery-role=gallery-placeholder]": {
+            "mage/gallery/gallery": {
+                "mixins":["magnifier/magnify"],
+                "magnifierOpts": {"fullscreenzoom":"20","top":"","left":"","width":"","height":"","eventType":"hover","enabled":false,"mode":"outside"},
+                "data": [{"thumb":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/thumbnail.jpg","img":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/image.jpg","full":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/image.jpg","caption":"","position":"0","isMain":true,"type":"image","videoUrl":null}],
+                "options": {"nav":"thumbs","loop":true,"keyboard":true,"arrows":true,"allowfullscreen":true,"showCaption":false,"width":700,"thumbwidth":88,"thumbheight":110,"height":700,"transitionduration":500,"transition":"slide","navarrows":true,"navtype":"slides","navdir":"horizontal"},
+                "fullscreen": {"nav":"thumbs","loop":true,"navdir":"horizontal","navarrows":false,"navtype":"slides","arrows":true,"showCaption":false,"transitionduration":500,"transition":"slide"},
+                 "breakpoints": {"mobile":{"conditions":{"max-width":"768px"},"options":{"options":{"nav":"dots"}}}}            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "[data-gallery-role=gallery-placeholder]": {
+            "Magento_ProductVideo/js/fotorama-add-video-events": {
+                "videoData": [],
+                "videoSettings": [{"playIfBase":"0","showRelated":"0","videoAutoRestart":"0"}],
+                "optionsVideoData": []            }
+        }
+    }
+</script>
+<div class="action-skip-wrapper"><a class="action skip gallery-prev-area"
+   href="#gallery-prev-area">
+    <span>
+        Skip to the beginning of the images gallery    </span>
+</a>
+</div><a id="gallery-next-area" tabindex="-1"></a>
+</div><input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" /><div id="authenticationPopup" data-bind="scope:'authenticationPopup', style: {display: 'none'}">
+        <script>window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/create\/","customerForgotPasswordUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/forgotpassword\/","baseUrl":"http:\/\/rohit.magento.com\/index.php\/","customerLoginUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/ajax\/login\/"}</script>    <!-- ko template: getTemplate() --><!-- /ko -->
+        <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+                            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/section-config": {
+                "sections": {"stores\/store\/switch":["*"],"stores\/store\/switchrequest":["*"],"directory\/currency\/switch":["*"],"*":["messages"],"customer\/account\/logout":["*","recently_viewed_product","recently_compared_product","persistent"],"customer\/account\/loginpost":["*"],"customer\/account\/createpost":["*"],"customer\/account\/editpost":["*"],"customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart","directory-data"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","last-ordered-items","instant-purchase","captcha"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","captcha"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"review\/product\/post":["review"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"braintree\/googlepay\/placeorder":["cart","checkout-data"]},
+                "clientSideSections": ["checkout-data","cart-data"],
+                "baseUrls": ["http:\/\/rohit.magento.com\/index.php\/"],
+                "sectionNames": ["messages","customer","compare-products","last-ordered-items","cart","directory-data","instant-purchase","loggedAsCustomer","captcha","persistent","review","wishlist","recently_viewed_product","recently_compared_product","product_data_storage","paypal-billing-agreement"]            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/customer-data": {
+                "sectionLoadUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fcustomer\u002Fsection\u002Fload\u002F",
+                "expirableSectionLifetime": 60,
+                "expirableSectionNames": ["cart","persistent"],
+                "cookieLifeTime": "3600",
+                "updateSessionUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fcustomer\u002Faccount\u002FupdateSession\u002F"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/invalidation-processor": {
+                "invalidationRules": {
+                    "website-rule": {
+                        "Magento_Customer/js/invalidation-rules/website-rule": {
+                            "scopeConfig": {
+                                "websiteId": "1"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"http:\/\/rohit.magento.com\/index.php\/page_cache\/block\/render\/id\/1\/","handles":["default","catalog_product_view","catalog_product_view_type_simple","catalog_product_view_id_1","catalog_product_view_sku_Rohit"],"originalRequest":{"route":"catalog","controller":"product","action":"view","uri":"\/index.php\/rohit.html"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "requireCookie": {"noCookieUrl":"http:\/\/rohit.magento.com\/index.php\/cookie\/index\/noCookies\/","triggers":[".action.towishlist"],"isRedirectCmsPage":true}        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+                "Magento_Catalog/js/product/view/provider": {
+                    "data": {"items":{"1":{"add_to_cart_button":{"post_data":"{\"action\":\"http:\\\/\\\/rohit.magento.com\\\/index.php\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/1\\\/\",\"data\":{\"product\":\"1\",\"uenc\":\"%uenc%\"}}","url":"http:\/\/rohit.magento.com\/index.php\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/1\/","required_options":false},"add_to_compare_button":{"post_data":null,"url":"{\"action\":\"http:\\\/\\\/rohit.magento.com\\\/index.php\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"1\",\"uenc\":\"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s\"}}","required_options":null},"price_info":{"final_price":10,"max_price":10,"max_regular_price":10,"minimal_regular_price":10,"special_price":null,"minimal_price":10,"regular_price":10,"formatted_prices":{"final_price":"<span class=\"price\">$10.00<\/span>","max_price":"<span class=\"price\">$10.00<\/span>","minimal_price":"<span class=\"price\">$10.00<\/span>","max_regular_price":"<span class=\"price\">$10.00<\/span>","minimal_regular_price":null,"special_price":null,"regular_price":"<span class=\"price\">$10.00<\/span>"},"extension_attributes":{"msrp":{"msrp_price":"<span class=\"price\">$0.00<\/span>","is_applicable":"","is_shown_price_on_gesture":"","msrp_message":"","explanation_message":"Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."},"tax_adjustments":{"final_price":10,"max_price":10,"max_regular_price":10,"minimal_regular_price":10,"special_price":10,"minimal_price":10,"regular_price":10,"formatted_prices":{"final_price":"<span class=\"price\">$10.00<\/span>","max_price":"<span class=\"price\">$10.00<\/span>","minimal_price":"<span class=\"price\">$10.00<\/span>","max_regular_price":"<span class=\"price\">$10.00<\/span>","minimal_regular_price":null,"special_price":"<span class=\"price\">$10.00<\/span>","regular_price":"<span class=\"price\">$10.00<\/span>"}},"weee_attributes":[],"weee_adjustment":"<span class=\"price\">$10.00<\/span>"}},"images":[{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_viewed_products_grid_content_widget","height":300,"width":240,"label":"Rohit On Sale!","resized_width":240,"resized_height":300},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_viewed_products_list_content_widget","height":340,"width":270,"label":"Rohit On Sale!","resized_width":270,"resized_height":340},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_viewed_products_images_names_widget","height":90,"width":75,"label":"Rohit On Sale!","resized_width":75,"resized_height":90},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_compared_products_grid_content_widget","height":300,"width":240,"label":"Rohit On Sale!","resized_width":240,"resized_height":300},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_compared_products_list_content_widget","height":340,"width":270,"label":"Rohit On Sale!","resized_width":270,"resized_height":340},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/thumbnail.jpg","code":"recently_compared_products_images_names_widget","height":90,"width":75,"label":"Rohit On Sale!","resized_width":75,"resized_height":90}],"url":"http:\/\/rohit.magento.com\/index.php\/rohit.html","id":1,"name":"Rohit On Sale!","type":"simple","is_salable":"1","store_id":1,"currency_code":"USD","extension_attributes":{"review_html":"    <div class=\"product-reviews-summary short empty\">\n        <div class=\"reviews-actions\">\n            <a class=\"action add\" href=\"http:\/\/rohit.magento.com\/index.php\/rohit.html#review-form\">\n                Be the first to review this product            <\/a>\n        <\/div>\n    <\/div>\n","wishlist_button":{"post_data":null,"url":"{\"action\":\"http:\\\/\\\/rohit.magento.com\\\/index.php\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":1,\"uenc\":\"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s\"}}","required_options":null}},"is_available":true}},"store":"1","currency":"USD","productCurrentScope":"website"}            }
+        }
+    }
+</script>
+</div></div></main><div id="description" class="page-main-description product-full-width-section">Modified Product Description: Modified Product Description: 
+</div><div class="page-main page-main-details"><div class="columns"><div class="column main">    <div class="product-full-width-section" id="reviews">
+        <h2 class="product-section-title">Reviews</h2>
+        <div id="product-review-container" data-role="product-review"></div>
+<div class="block review-add">
+    <div class="block-title"><strong>Write Your Own Review</strong></div>
+<div class="block-content">
+<form action="http://rohit.magento.com/index.php/review/product/post/id/1/" class="review-form" method="post" id="review-form" data-role="product-review-form" data-bind="scope: 'review-form'">
+    <input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" />        <fieldset class="fieldset review-fieldset" data-hasrequired="&#x2A;&#x20;Required&#x20;Fields">
+        <legend class="legend review-legend"><span>You&#039;re reviewing:</span><strong>Rohit On Sale!</strong></legend><br />
+                <div class="field review-field-nickname required">
+            <label for="nickname_field" class="label"><span>Nickname</span></label>
+            <div class="control">
+                <input type="text" name="nickname" id="nickname_field" class="input-text" data-validate="{required:true}" data-bind="value: nickname()" />
+            </div>
+        </div>
+        <div class="field review-field-summary required">
+            <label for="summary_field" class="label"><span>Summary</span></label>
+            <div class="control">
+                <input type="text" name="title" id="summary_field" class="input-text" data-validate="{required:true}" data-bind="value: review().title" />
+            </div>
+        </div>
+        <div class="field review-field-text required">
+            <label for="review_field" class="label"><span>Review</span></label>
+            <div class="control">
+                <textarea name="detail" id="review_field" cols="5" rows="3" data-validate="{required:true}" data-bind="value: review().detail"></textarea>
+            </div>
+        </div>
+    </fieldset>
+    <div class="actions-toolbar review-form-actions">
+        <div class="primary actions-primary">
+            <button type="submit" class="action submit primary"><span>Submit Review</span></button>
+        </div>
+    </div>
+</form>
+<script type="text/x-magento-init">
+{
+    "[data-role=product-review-form]": {
+        "Magento_Ui/js/core/app": {"components":{"review-form":{"component":"Magento_Review\/js\/view\/review"}}}    },
+    "#review-form": {
+        "Magento_Review/js/error-placement": {},
+        "Magento_Review/js/validate-review": {},
+        "Magento_Review/js/submit-review": {}
+    }
+}
+</script>
+</div>
+</div>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Review/js/process-reviews": {
+                "productReviewUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Freview\u002Fproduct\u002FlistAjax\u002Fid\u002F1\u002F",
+                "reviewsTabSelector": "#tab-label-reviews"
+            }
+        }
+    }
+</script>
+    </div>
+
+
+
+
+</div></div></div><footer class="page-footer"><div class="footer content"><div class="block newsletter">
+    <div class="title"><strong>Newsletter</strong></div>
+    <div class="content">
+        <form class="form subscribe"
+            novalidate
+            action="http://rohit.magento.com/index.php/newsletter/subscriber/new/"
+            method="post"
+            data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+            id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <div class="control">
+                    <label for="newsletter">
+                        <span class="label">
+                            Sign Up for Our Newsletter:                        </span>
+                        <input name="email" type="email" id="newsletter"
+                               placeholder="Enter your email address"
+                               data-mage-init='{"mage/trim-input":{}}'
+                               data-validate="{required:true, 'validate-email':true}"
+                        />
+                    </label>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="action subscribe primary"
+                        title="Subscribe"
+                        type="submit"
+                        aria-label="Subscribe">
+                    <span>Subscribe</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/block-submit-on-send": {
+                "formId": "newsletter-validate-detail"
+            }
+        }
+    }
+</script>
+<ul class="footer links"><li class="nav item"><a href="http://rohit.magento.com/index.php/privacy-policy-cookie-restriction-mode/">Privacy and Cookie Policy</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/search/term/popular/">Search Terms</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/catalogsearch/advanced/" data-action="advanced-search">Advanced Search</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/sales/guest/form/">Orders and Returns</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/contact/">Contact Us</a></li></ul><div class="switcher store switcher-store" id="switcher-store">
+    <strong class="label switcher-label"><span>Select Store</span></strong>
+    <div class="actions dropdown options switcher-options">
+                                    <div class="action toggle switcher-trigger"
+                     role="button"
+                     tabindex="0"
+                     data-mage-init='{"dropdown":{}}'
+                     data-toggle="dropdown"
+                     data-trigger-keypress-button="true"
+                     id="switcher-store-trigger">
+                    <strong>
+                        <span>Main Website Store</span>
+                    </strong>
+                </div>
+                                                <ul class="dropdown switcher-dropdown" data-target="dropdown">
+                                                                            <li class="switcher-option">
+                        <a href="#" data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/stores\/store\/redirect\/","data":{"___store":"userstories","___from_store":"default","uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1sP19fX3N0b3JlPXVzZXJzdG9yaWVz"}}'>
+                            userstories                        </a>
+                    </li>
+                                    </ul>
+    </div>
+</div>
+</div></footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" : {"recently_viewed_product":{"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"http:\/\/rohit.magento.com\/index.php\/rest\/default\/V1\/products-render-info"},"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+<small class="copyright">
+    <span>New rohit copyright text</span>
+</small>
+</div>    </body>
+</html>
+ [] []
+[2023-10-30T11:00:11.062932+00:00] main.INFO: List of Routers: Magento\Robots\Controller\Router\Interceptor, Magento\Securitytxt\Controller\Router\Interceptor, Magento\UrlRewrite\Controller\Router\Interceptor, Magento\Framework\App\Router\Base\Interceptor, Magento\Cms\Controller\Router\Interceptor, Magento\Framework\App\Router\DefaultRouter\Interceptor [] []
+[2023-10-30T11:06:00.630648+00:00] main.INFO: HTML of Page: <!doctype html>
+<html lang="en">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
+        <script>
+    var LOCALE = 'en\u002DUS';
+    var BASE_URL = 'http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002F';
+    var require = {
+        'baseUrl': 'http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US'
+    };</script>        <meta charset="utf-8"/>
+<meta name="title" content="Rohit"/>
+<meta name="description" content="Rohit "/>
+<meta name="keywords" content="Rohit"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="format-detection" content="telephone=no"/>
+<title>Rohit</title>
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/calendar.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/styles-m.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/gallery/gallery.css" />
+<link  rel="stylesheet" type="text/css"  media="screen and (min-width: 768px)" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/styles-l.css" />
+<link  rel="stylesheet" type="text/css"  media="print" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/css/print.css" />
+<link  rel="icon" type="image/x-icon" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico" />
+<link  rel="shortcut icon" type="image/x-icon" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico" />
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/requirejs/require.js"></script>
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/mage/requirejs/mixins.js"></script>
+<script  type="text/javascript"  src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/requirejs-config.js"></script>
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2" />
+            <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_PageCache/js/form-key-provider": {
+                    "isPaginationCacheEnabled":
+                        0                }
+            }
+        }
+    </script>
+
+<meta property="og:type" content="product" />
+<meta property="og:title"
+      content="Rohit&#x20;On&#x20;Sale&#x21;" />
+<meta property="og:image"
+      content="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/image.jpg" />
+<meta property="og:description"
+      content="" />
+<meta property="og:url" content="http://rohit.magento.com/index.php/rohit.html" />
+    <meta property="product:price:amount" content="10"/>
+    <meta property="product:price:currency"
+      content="USD"/>
+    </head>
+    <body data-container="body"
+          data-mage-init='{"loaderAjax": {}, "loader": { "icon": "http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/images/loader-2.gif"}}'
+        id="html-body" itemtype="http://schema.org/Product" itemscope="itemscope" class="catalog-product-view product-rohit categorypath-yamaha category-yamaha page-layout-1column page-layout-product-full-width">
+        
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_PageBuilder/js/widget-initializer": {
+                "config": {"[data-content-type=\"slider\"][data-appearance=\"default\"]":{"Magento_PageBuilder\/js\/content-type\/slider\/appearance\/default\/widget":false},"[data-content-type=\"map\"]":{"Magento_PageBuilder\/js\/content-type\/map\/appearance\/default\/widget":false},"[data-content-type=\"row\"]":{"Magento_PageBuilder\/js\/content-type\/row\/appearance\/default\/widget":false},"[data-content-type=\"tabs\"]":{"Magento_PageBuilder\/js\/content-type\/tabs\/appearance\/default\/widget":false},"[data-content-type=\"slide\"]":{"Magento_PageBuilder\/js\/content-type\/slide\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-slide-button","showOverlay":"hover","dataRole":"slide"}},"[data-content-type=\"banner\"]":{"Magento_PageBuilder\/js\/content-type\/banner\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-banner-button","showOverlay":"hover","dataRole":"banner"}},"[data-content-type=\"buttons\"]":{"Magento_PageBuilder\/js\/content-type\/buttons\/appearance\/inline\/widget":false},"[data-content-type=\"products\"][data-appearance=\"carousel\"]":{"Magento_PageBuilder\/js\/content-type\/products\/appearance\/carousel\/widget":false}},
+                "breakpoints": {"desktop":{"label":"Desktop","stage":true,"default":true,"class":"desktop-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-desktop.svg","conditions":{"min-width":"1024px"},"options":{"products":{"default":{"slidesToShow":"5"}}}},"tablet":{"conditions":{"max-width":"1024px","min-width":"768px"},"options":{"products":{"default":{"slidesToShow":"4"},"continuous":{"slidesToShow":"3"}}}},"mobile":{"label":"Mobile","stage":true,"class":"mobile-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-mobile.svg","media":"only screen and (max-width: 768px)","conditions":{"max-width":"768px","min-width":"640px"},"options":{"products":{"default":{"slidesToShow":"3"}}}},"mobile-small":{"conditions":{"max-width":"640px"},"options":{"products":{"default":{"slidesToShow":"2"},"continuous":{"slidesToShow":"1"}}}}}            }
+        }
+    }
+</script>
+
+<div class="cookie-status-message" id="cookie-status">
+    The store will not work correctly when cookies are disabled.</div>
+<script type="text&#x2F;javascript">document.querySelector("#cookie-status").style.display = "none";</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "cookieStatus": {}
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "\u002F",
+                "domain": ".rohit.magento.com",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>
+                        For the best experience on our site, be sure to turn on Javascript in your browser.                    </span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script>
+    window.cookiesConfig = window.cookiesConfig || {};
+    window.cookiesConfig.secure = false;
+</script><script>    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce5Adapter'
+            }
+        }
+    });</script><script>
+    require.config({
+        paths: {
+            googleMaps: 'https\u003A\u002F\u002Fmaps.googleapis.com\u002Fmaps\u002Fapi\u002Fjs\u003Fv\u003D3\u0026key\u003D'
+        },
+        config: {
+            'Magento_PageBuilder/js/utils/map': {
+                style: ''
+            },
+            'Magento_PageBuilder/js/content-type/map/preview': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+            'Magento_PageBuilder/js/form/element/map': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+        }
+    });
+</script>
+
+<script>
+    require.config({
+        shim: {
+            'Magento_PageBuilder/js/utils/map': {
+                deps: ['googleMaps']
+            }
+        }
+    });
+</script>
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea"
+   href="#contentarea">
+    <span>
+        Skip to Content    </span>
+</a>
+<ul class="header links">    <li class="greet welcome" data-bind="scope: 'customer'">
+        <!-- ko if: customer().fullname  -->
+        <span class="logged-in"
+              data-bind="text: new String('Welcome, %1!').
+              replace('%1', customer().fullname)">
+        </span>
+        <!-- /ko -->
+        <!-- ko ifnot: customer().fullname  -->
+        <span class="not-logged-in"
+              data-bind="text: 'New rohit welcome message'"></span>
+                <!-- /ko -->
+    </li>
+        <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "customer": {
+                            "component": "Magento_Customer/js/view/customer"
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+<li class="link authorization-link" data-label="or">
+    <a href="http://rohit.magento.com/index.php/customer/account/login/"        >Sign In</a>
+</li>
+<li><a href="http://rohit.magento.com/index.php/customer/account/create/" id="idUTenHLsg" >Create an Account</a></li></ul></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+<a
+    class="logo"
+    href="http://rohit.magento.com/index.php/"
+    title=""
+    aria-label="store logo">
+    <img src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/images/logo.svg"
+         title=""
+         alt=""
+            width="170"                />
+</a>
+
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="http://rohit.magento.com/index.php/checkout/cart/"
+       data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty empty"
+              data-bind="css: { empty: !!getCartParam('summary_count') == false && !isLoading() },
+               blockLoader: isLoading">
+            <span class="counter-number">
+                <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                <!-- /ko -->
+            </span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+        </span>
+    </a>
+            <div class="block block-minicart"
+             data-role="dropdownDialog"
+             data-mage-init='{"dropdownDialog":{
+                "appendTo":"[data-block=minicart]",
+                "triggerTarget":".showcart",
+                "timeout": "2000",
+                "closeOnMouseLeave": false,
+                "closeOnEscape": true,
+                "triggerClass":"active",
+                "parentClass":"active",
+                "buttons":[]}}'>
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>window.checkout = {"shoppingCartUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/cart\/","checkoutUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/","updateItemQtyUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"http:\/\/rohit.magento.com\/index.php\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"http:\/\/rohit.magento.com\/index.php\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","storeGroupId":"1","customerLoginUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"http:\/\/rohit.magento.com\/index.php\/captcha\/refresh\/","isRequired":false,"timestamp":1698663610}}}</script>    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"Magento_Checkout\/js\/view\/cart-item-renderer","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+        }
+    }
+    </script>
+</div>
+<div class="block block-search">
+    <div class="block block-title"><strong>Search</strong></div>
+    <div class="block block-content">
+        <form class="form minisearch" id="search_mini_form"
+              action="http://rohit.magento.com/index.php/catalogsearch/result/" method="get">
+                        <div class="field search">
+                <label class="label" for="search" data-role="minisearch-label">
+                    <span>Search</span>
+                </label>
+                <div class="control">
+                    <input id="search"
+                           data-mage-init='{
+                            "quickSearch": {
+                                "formSelector": "#search_mini_form",
+                                "url": "http://rohit.magento.com/index.php/search/ajax/suggest/",
+                                "destinationSelector": "#search_autocomplete",
+                                "minSearchLength": "3"
+                            }
+                        }'
+                           type="text"
+                           name="q"
+                           value=""
+                           placeholder="Search&#x20;entire&#x20;store&#x20;here..."
+                           class="input-text"
+                           maxlength="128"
+                           role="combobox"
+                           aria-haspopup="false"
+                           aria-autocomplete="both"
+                           autocomplete="off"
+                           aria-expanded="false"/>
+                    <div id="search_autocomplete" class="search-autocomplete"></div>
+                    <div class="nested">
+    <a class="action advanced" href="http://rohit.magento.com/index.php/catalogsearch/advanced/" data-action="advanced-search">
+        Advanced Search    </a>
+</div>
+                </div>
+            </div>
+            <div class="actions">
+                <button type="submit"
+                        title="Search"
+                        class="action search"
+                        aria-label="Search"
+                >
+                    <span>Search</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<ul class="compare wrapper"><li class="item link compare" data-bind="scope: 'compareProducts'" data-role="compare-products-link">
+    <a class="action compare no-display" title="Compare&#x20;Products"
+       data-bind="attr: {'href': compareProducts().listUrl}, css: {'no-display': !compareProducts().count}"
+    >
+        Compare Products        <span class="counter qty" data-bind="text: compareProducts().countCaption"></span>
+    </a>
+</li>
+<script type="text/x-magento-init">
+{"[data-role=compare-products-link]": {"Magento_Ui/js/core/app": {"components":{"compareProducts":{"component":"Magento_Catalog\/js\/view\/compare-products"}}}}}
+</script>
+</ul></div></header>    <div class="sections nav-sections">
+                <div class="section-items nav-sections-items"
+             data-mage-init='{"tabs":{"openedState":"active"}}'>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.menu">
+                        Menu                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.menu"
+                     data-role="content">
+                    
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first active level-top parent"><a href="http://rohit.magento.com/index.php/yamaha.html"  class="level-top" ><span>yamaha</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first last"><a href="http://rohit.magento.com/index.php/yamaha/sports-bike.html" ><span>sports bike</span></a></li></ul></li><li  class="level0 nav-2 category-item last level-top"><a href="http://rohit.magento.com/index.php/hoodies.html"  class="level-top" ><span>Hoodies</span></a></li>            </ul>
+</nav>
+                </div>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.links">
+                        Account                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.links"
+                     data-role="content">
+                    <!-- Account links -->                </div>
+                                    </div>
+    </div>
+<div class="breadcrumbs"></div>
+<script type="text/x-magento-init">
+    {
+        ".breadcrumbs": {
+            "breadcrumbs": {"categoryUrlSuffix":".html","useCategoryPathInUrl":0,"product":"Rohit On Sale!"}        }
+    }
+</script>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div aria-atomic="true" role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div aria-atomic="true" role="alert" class="messages" data-bind="foreach: {
+        data: messages().messages, as: 'message'
+    }">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="columns"><div class="column main"><div class="product-info-main"><div class="page-title-wrapper&#x20;product">
+    <h1 class="page-title"
+                >
+        <span class="base" data-ui-id="page-title-wrapper" itemprop="name">Rohit On Sale!</span>    </h1>
+    </div>
+<p>This is displayed on all pages.</p>
+    <div class="product-reviews-summary empty">
+        <div class="reviews-actions">
+            <a class="action add" href="http://rohit.magento.com/index.php/rohit.html#review-form">
+                Be the first to review this product            </a>
+        </div>
+    </div>
+<div class="product-info-price"><div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+         itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <span  id="product-price-1"                data-price-amount="10"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.00</span></span>
+                <meta itemprop="price" content="10" />
+        <meta itemprop="priceCurrency" content="USD" />
+    </span>
+
+</div><div class="product-info-stock-sku">
+            <div class="stock available" title="Availability">
+            <span>In stock</span>
+        </div>
+    Modified Product Description: Modified Product Description: 
+<div class="product attribute sku">
+            <strong class="type">SKU</strong>
+        <div class="value" itemprop="sku">Rohit</div>
+</div>
+</div></div>
+
+<div class="product-add-form">
+    <form data-product-sku="Rohit"
+          action="http://rohit.magento.com/index.php/checkout/cart/add/uenc/aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s/product/1/" method="post"
+          id="product_addtocart_form">
+        <input type="hidden" name="product" value="1" />
+        <input type="hidden" name="selected_configurable_option" value="" />
+        <input type="hidden" name="related_product" id="related-products-field" value="" />
+        <input type="hidden" name="item"  value="1" />
+        <input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" />                            <div class="box-tocart">
+    <div class="fieldset">
+                <div class="field qty">
+            <label class="label" for="qty"><span>Qty</span></label>
+            <div class="control">
+                <input type="number"
+                       name="qty"
+                       id="qty"
+                       min="0"
+                       value="1"
+                       title="Qty"
+                       class="input-text qty"
+                       data-validate="{&quot;required-number&quot;:true,&quot;validate-item-quantity&quot;:{&quot;maxAllowed&quot;:10000}}"
+                       />
+            </div>
+        </div>
+                <div class="actions">
+            <button type="submit"
+                    title="Add&#x20;to&#x20;Cart"
+                    class="action primary tocart"
+                    id="product-addtocart-button" disabled>
+                <span>Add to Cart</span>
+            </button>
+            
+<div id="instant-purchase" data-bind="scope:'instant-purchase'">
+    <!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "#instant-purchase": {
+            "Magento_Ui/js/core/app": {"components":{"instant-purchase":{"component":"Magento_InstantPurchase\/js\/view\/instant-purchase","config":{"template":"Magento_InstantPurchase\/instant-purchase","buttonText":"Instant Purchase","purchaseUrl":"http:\/\/rohit.magento.com\/index.php\/instantpurchase\/button\/placeOrder\/"}}}}        }
+    }
+</script>
+        </div>
+    </div>
+</div>
+<script type="text/x-magento-init">
+    {
+        "#product_addtocart_form": {
+            "Magento_Catalog/js/validate-product": {}
+        }
+    }
+</script>
+        
+                    </form>
+</div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-1]": {
+            "priceBox": {
+                "priceConfig":  {"productId":"1","priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"tierPrices":[]}            }
+        }
+    }
+</script>
+<div class="product-social-links"><div class="product-addto-links" data-role="add-to-links">
+        <a href="#"
+       class="action towishlist"
+       data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/wishlist\/index\/add\/","data":{"product":1,"uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s"}}'
+       data-action="add-to-wishlist"><span>Add to Wish List</span></a>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "addToWishlist": {"productType":"simple"}        }
+    }
+</script>
+
+<a href="#" data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s"}}'
+        data-role="add-to-links"
+        class="action tocompare"><span>Add to Compare</span></a>
+
+</div>
+</div>Modified Product Description: Modified Product Description: 
+</div><div class="product media"><a id="gallery-prev-area" tabindex="-1"></a>
+<div class="action-skip-wrapper"><a class="action skip gallery-next-area"
+   href="#gallery-next-area">
+    <span>
+        Skip to the end of the images gallery    </span>
+</a>
+</div>
+
+<div class="gallery-placeholder _block-content-loading" data-gallery-role="gallery-placeholder">
+    <img
+        alt="main product photo"
+        class="gallery-placeholder__image"
+        src="http://rohit.magento.com/static/version1698401023/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/image.jpg"
+    />
+</div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-gallery-role=gallery-placeholder]": {
+            "mage/gallery/gallery": {
+                "mixins":["magnifier/magnify"],
+                "magnifierOpts": {"fullscreenzoom":"20","top":"","left":"","width":"","height":"","eventType":"hover","enabled":false,"mode":"outside"},
+                "data": [{"thumb":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/thumbnail.jpg","img":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/image.jpg","full":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/image.jpg","caption":"","position":"0","isMain":true,"type":"image","videoUrl":null}],
+                "options": {"nav":"thumbs","loop":true,"keyboard":true,"arrows":true,"allowfullscreen":true,"showCaption":false,"width":700,"thumbwidth":88,"thumbheight":110,"height":700,"transitionduration":500,"transition":"slide","navarrows":true,"navtype":"slides","navdir":"horizontal"},
+                "fullscreen": {"nav":"thumbs","loop":true,"navdir":"horizontal","navarrows":false,"navtype":"slides","arrows":true,"showCaption":false,"transitionduration":500,"transition":"slide"},
+                 "breakpoints": {"mobile":{"conditions":{"max-width":"768px"},"options":{"options":{"nav":"dots"}}}}            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "[data-gallery-role=gallery-placeholder]": {
+            "Magento_ProductVideo/js/fotorama-add-video-events": {
+                "videoData": [],
+                "videoSettings": [{"playIfBase":"0","showRelated":"0","videoAutoRestart":"0"}],
+                "optionsVideoData": []            }
+        }
+    }
+</script>
+<div class="action-skip-wrapper"><a class="action skip gallery-prev-area"
+   href="#gallery-prev-area">
+    <span>
+        Skip to the beginning of the images gallery    </span>
+</a>
+</div><a id="gallery-next-area" tabindex="-1"></a>
+</div><input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" /><div id="authenticationPopup" data-bind="scope:'authenticationPopup', style: {display: 'none'}">
+        <script>window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/create\/","customerForgotPasswordUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/account\/forgotpassword\/","baseUrl":"http:\/\/rohit.magento.com\/index.php\/","customerLoginUrl":"http:\/\/rohit.magento.com\/index.php\/customer\/ajax\/login\/"}</script>    <!-- ko template: getTemplate() --><!-- /ko -->
+        <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "http\u003A\u002F\u002Frohit.magento.com\u002Fstatic\u002Fversion1698401023\u002Ffrontend\u002FMagento\u002Fluma\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+                            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/section-config": {
+                "sections": {"stores\/store\/switch":["*"],"stores\/store\/switchrequest":["*"],"directory\/currency\/switch":["*"],"*":["messages"],"customer\/account\/logout":["*","recently_viewed_product","recently_compared_product","persistent"],"customer\/account\/loginpost":["*"],"customer\/account\/createpost":["*"],"customer\/account\/editpost":["*"],"customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart","directory-data"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","last-ordered-items","instant-purchase","captcha"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","captcha"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"review\/product\/post":["review"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"braintree\/googlepay\/placeorder":["cart","checkout-data"]},
+                "clientSideSections": ["checkout-data","cart-data"],
+                "baseUrls": ["http:\/\/rohit.magento.com\/index.php\/"],
+                "sectionNames": ["messages","customer","compare-products","last-ordered-items","cart","directory-data","instant-purchase","loggedAsCustomer","captcha","persistent","review","wishlist","recently_viewed_product","recently_compared_product","product_data_storage","paypal-billing-agreement"]            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/customer-data": {
+                "sectionLoadUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fcustomer\u002Fsection\u002Fload\u002F",
+                "expirableSectionLifetime": 60,
+                "expirableSectionNames": ["cart","persistent"],
+                "cookieLifeTime": "3600",
+                "updateSessionUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Fcustomer\u002Faccount\u002FupdateSession\u002F"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/invalidation-processor": {
+                "invalidationRules": {
+                    "website-rule": {
+                        "Magento_Customer/js/invalidation-rules/website-rule": {
+                            "scopeConfig": {
+                                "websiteId": "1"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"http:\/\/rohit.magento.com\/index.php\/page_cache\/block\/render\/id\/1\/","handles":["default","catalog_product_view","catalog_product_view_type_simple","catalog_product_view_id_1","catalog_product_view_sku_Rohit"],"originalRequest":{"route":"catalog","controller":"product","action":"view","uri":"\/index.php\/rohit.html"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "requireCookie": {"noCookieUrl":"http:\/\/rohit.magento.com\/index.php\/cookie\/index\/noCookies\/","triggers":[".action.towishlist"],"isRedirectCmsPage":true}        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+                "Magento_Catalog/js/product/view/provider": {
+                    "data": {"items":{"1":{"add_to_cart_button":{"post_data":"{\"action\":\"http:\\\/\\\/rohit.magento.com\\\/index.php\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/1\\\/\",\"data\":{\"product\":\"1\",\"uenc\":\"%uenc%\"}}","url":"http:\/\/rohit.magento.com\/index.php\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/1\/","required_options":false},"add_to_compare_button":{"post_data":null,"url":"{\"action\":\"http:\\\/\\\/rohit.magento.com\\\/index.php\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"1\",\"uenc\":\"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s\"}}","required_options":null},"price_info":{"final_price":10,"max_price":10,"max_regular_price":10,"minimal_regular_price":10,"special_price":null,"minimal_price":10,"regular_price":10,"formatted_prices":{"final_price":"<span class=\"price\">$10.00<\/span>","max_price":"<span class=\"price\">$10.00<\/span>","minimal_price":"<span class=\"price\">$10.00<\/span>","max_regular_price":"<span class=\"price\">$10.00<\/span>","minimal_regular_price":null,"special_price":null,"regular_price":"<span class=\"price\">$10.00<\/span>"},"extension_attributes":{"msrp":{"msrp_price":"<span class=\"price\">$0.00<\/span>","is_applicable":"","is_shown_price_on_gesture":"","msrp_message":"","explanation_message":"Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."},"tax_adjustments":{"final_price":10,"max_price":10,"max_regular_price":10,"minimal_regular_price":10,"special_price":10,"minimal_price":10,"regular_price":10,"formatted_prices":{"final_price":"<span class=\"price\">$10.00<\/span>","max_price":"<span class=\"price\">$10.00<\/span>","minimal_price":"<span class=\"price\">$10.00<\/span>","max_regular_price":"<span class=\"price\">$10.00<\/span>","minimal_regular_price":null,"special_price":"<span class=\"price\">$10.00<\/span>","regular_price":"<span class=\"price\">$10.00<\/span>"}},"weee_attributes":[],"weee_adjustment":"<span class=\"price\">$10.00<\/span>"}},"images":[{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_viewed_products_grid_content_widget","height":300,"width":240,"label":"Rohit On Sale!","resized_width":240,"resized_height":300},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_viewed_products_list_content_widget","height":340,"width":270,"label":"Rohit On Sale!","resized_width":270,"resized_height":340},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_viewed_products_images_names_widget","height":90,"width":75,"label":"Rohit On Sale!","resized_width":75,"resized_height":90},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_compared_products_grid_content_widget","height":300,"width":240,"label":"Rohit On Sale!","resized_width":240,"resized_height":300},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","code":"recently_compared_products_list_content_widget","height":340,"width":270,"label":"Rohit On Sale!","resized_width":270,"resized_height":340},{"url":"http:\/\/rohit.magento.com\/static\/version1698401023\/frontend\/Magento\/luma\/en_US\/Magento_Catalog\/images\/product\/placeholder\/thumbnail.jpg","code":"recently_compared_products_images_names_widget","height":90,"width":75,"label":"Rohit On Sale!","resized_width":75,"resized_height":90}],"url":"http:\/\/rohit.magento.com\/index.php\/rohit.html","id":1,"name":"Rohit On Sale!","type":"simple","is_salable":"1","store_id":1,"currency_code":"USD","extension_attributes":{"review_html":"    <div class=\"product-reviews-summary short empty\">\n        <div class=\"reviews-actions\">\n            <a class=\"action add\" href=\"http:\/\/rohit.magento.com\/index.php\/rohit.html#review-form\">\n                Be the first to review this product            <\/a>\n        <\/div>\n    <\/div>\n","wishlist_button":{"post_data":null,"url":"{\"action\":\"http:\\\/\\\/rohit.magento.com\\\/index.php\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":1,\"uenc\":\"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1s\"}}","required_options":null}},"is_available":true}},"store":"1","currency":"USD","productCurrentScope":"website"}            }
+        }
+    }
+</script>
+</div></div></main><div id="description" class="page-main-description product-full-width-section">Modified Product Description: Modified Product Description: 
+</div><div class="page-main page-main-details"><div class="columns"><div class="column main">    <div class="product-full-width-section" id="reviews">
+        <h2 class="product-section-title">Reviews</h2>
+        <div id="product-review-container" data-role="product-review"></div>
+<div class="block review-add">
+    <div class="block-title"><strong>Write Your Own Review</strong></div>
+<div class="block-content">
+<form action="http://rohit.magento.com/index.php/review/product/post/id/1/" class="review-form" method="post" id="review-form" data-role="product-review-form" data-bind="scope: 'review-form'">
+    <input name="form_key" type="hidden" value="KpXCHWdzehadaMP1" />        <fieldset class="fieldset review-fieldset" data-hasrequired="&#x2A;&#x20;Required&#x20;Fields">
+        <legend class="legend review-legend"><span>You&#039;re reviewing:</span><strong>Rohit On Sale!</strong></legend><br />
+                <div class="field review-field-nickname required">
+            <label for="nickname_field" class="label"><span>Nickname</span></label>
+            <div class="control">
+                <input type="text" name="nickname" id="nickname_field" class="input-text" data-validate="{required:true}" data-bind="value: nickname()" />
+            </div>
+        </div>
+        <div class="field review-field-summary required">
+            <label for="summary_field" class="label"><span>Summary</span></label>
+            <div class="control">
+                <input type="text" name="title" id="summary_field" class="input-text" data-validate="{required:true}" data-bind="value: review().title" />
+            </div>
+        </div>
+        <div class="field review-field-text required">
+            <label for="review_field" class="label"><span>Review</span></label>
+            <div class="control">
+                <textarea name="detail" id="review_field" cols="5" rows="3" data-validate="{required:true}" data-bind="value: review().detail"></textarea>
+            </div>
+        </div>
+    </fieldset>
+    <div class="actions-toolbar review-form-actions">
+        <div class="primary actions-primary">
+            <button type="submit" class="action submit primary"><span>Submit Review</span></button>
+        </div>
+    </div>
+</form>
+<script type="text/x-magento-init">
+{
+    "[data-role=product-review-form]": {
+        "Magento_Ui/js/core/app": {"components":{"review-form":{"component":"Magento_Review\/js\/view\/review"}}}    },
+    "#review-form": {
+        "Magento_Review/js/error-placement": {},
+        "Magento_Review/js/validate-review": {},
+        "Magento_Review/js/submit-review": {}
+    }
+}
+</script>
+</div>
+</div>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Review/js/process-reviews": {
+                "productReviewUrl": "http\u003A\u002F\u002Frohit.magento.com\u002Findex.php\u002Freview\u002Fproduct\u002FlistAjax\u002Fid\u002F1\u002F",
+                "reviewsTabSelector": "#tab-label-reviews"
+            }
+        }
+    }
+</script>
+    </div>
+
+
+
+
+</div></div></div><footer class="page-footer"><div class="footer content"><div class="block newsletter">
+    <div class="title"><strong>Newsletter</strong></div>
+    <div class="content">
+        <form class="form subscribe"
+            novalidate
+            action="http://rohit.magento.com/index.php/newsletter/subscriber/new/"
+            method="post"
+            data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+            id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <div class="control">
+                    <label for="newsletter">
+                        <span class="label">
+                            Sign Up for Our Newsletter:                        </span>
+                        <input name="email" type="email" id="newsletter"
+                               placeholder="Enter your email address"
+                               data-mage-init='{"mage/trim-input":{}}'
+                               data-validate="{required:true, 'validate-email':true}"
+                        />
+                    </label>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="action subscribe primary"
+                        title="Subscribe"
+                        type="submit"
+                        aria-label="Subscribe">
+                    <span>Subscribe</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/block-submit-on-send": {
+                "formId": "newsletter-validate-detail"
+            }
+        }
+    }
+</script>
+<ul class="footer links"><li class="nav item"><a href="http://rohit.magento.com/index.php/privacy-policy-cookie-restriction-mode/">Privacy and Cookie Policy</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/search/term/popular/">Search Terms</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/catalogsearch/advanced/" data-action="advanced-search">Advanced Search</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/sales/guest/form/">Orders and Returns</a></li><li class="nav item"><a href="http://rohit.magento.com/index.php/contact/">Contact Us</a></li></ul><div class="switcher store switcher-store" id="switcher-store">
+    <strong class="label switcher-label"><span>Select Store</span></strong>
+    <div class="actions dropdown options switcher-options">
+                                    <div class="action toggle switcher-trigger"
+                     role="button"
+                     tabindex="0"
+                     data-mage-init='{"dropdown":{}}'
+                     data-toggle="dropdown"
+                     data-trigger-keypress-button="true"
+                     id="switcher-store-trigger">
+                    <strong>
+                        <span>Main Website Store</span>
+                    </strong>
+                </div>
+                                                <ul class="dropdown switcher-dropdown" data-target="dropdown">
+                                                                            <li class="switcher-option">
+                        <a href="#" data-post='{"action":"http:\/\/rohit.magento.com\/index.php\/stores\/store\/redirect\/","data":{"___store":"userstories","___from_store":"default","uenc":"aHR0cDovL3JvaGl0Lm1hZ2VudG8uY29tL2luZGV4LnBocC9yb2hpdC5odG1sP19fX3N0b3JlPXVzZXJzdG9yaWVz"}}'>
+                            userstories                        </a>
+                    </li>
+                                    </ul>
+    </div>
+</div>
+</div></footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" : {"recently_viewed_product":{"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"http:\/\/rohit.magento.com\/index.php\/rest\/default\/V1\/products-render-info"},"requestConfig":{"syncUrl":"http:\/\/rohit.magento.com\/index.php\/catalog\/product\/frontend_action_synchronize\/"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+<small class="copyright">
+    <span>New rohit copyright text</span>
+</small>
+</div>    </body>
+</html>
+ [] []
+[2023-10-30T11:06:00.644931+00:00] main.INFO: List of Routers: Magento\Robots\Controller\Router\Interceptor, Magento\Securitytxt\Controller\Router\Interceptor, Magento\UrlRewrite\Controller\Router\Interceptor, Magento\Framework\App\Router\Base\Interceptor, Magento\Cms\Controller\Router\Interceptor, Magento\Framework\App\Router\DefaultRouter\Interceptor [] []
+[2023-10-30T11:06:01.625269+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2023-10-30T11:06:01.848337+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2023-10-30T11:06:01.852634+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2023-10-30T11:06:01.853701+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2023-10-30T11:06:01.854180+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2023-10-30T11:06:01.854599+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2023-10-30T11:06:01.855010+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2023-10-30T11:06:01.855449+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2023-10-30T11:06:01.855849+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2023-10-30T11:06:01.856365+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2023-10-30T11:06:01.857039+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2023-10-30T11:06:01.857692+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2023-10-30T11:06:01.858216+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2023-10-30T11:06:01.858734+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2023-10-30T11:06:01.859279+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2023-10-30T11:06:01.859797+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2023-10-30T11:06:01.860207+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2023-10-30T11:06:01.860592+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2023-10-30T11:06:01.860978+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2023-10-30T11:06:01.861379+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2023-10-30T11:06:01.861755+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2023-10-30T11:06:01.862111+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2023-10-30T11:06:01.862485+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2023-10-30T11:06:01.862851+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2023-10-30T11:06:01.863218+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2023-10-30T11:06:01.863598+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2023-10-30T11:06:01.863978+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2023-10-30T11:06:01.864459+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2023-10-30T11:06:01.864981+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2023-10-30T11:06:01.865554+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2023-10-30T11:06:01.866088+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2023-10-30T11:06:01.866603+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2023-10-30T11:06:01.867169+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2023-10-30T11:06:01.867587+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2023-10-30T11:06:01.867955+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2023-10-30T11:06:01.868319+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2023-10-30T11:06:01.868709+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2023-10-30T11:06:01.869087+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2023-10-30T11:06:01.869485+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2023-10-30T11:06:01.869991+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2023-10-30T11:06:01.870494+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2023-10-30T11:06:01.870993+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2023-10-30T11:06:01.871521+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2023-10-30T11:06:01.872020+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2023-10-30T11:06:01.872520+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2023-10-30T11:06:01.872984+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2023-10-30T11:06:01.873356+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2023-10-30T11:06:01.873912+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2023-10-30T11:06:01.874525+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2023-10-30T11:06:01.875209+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2023-10-30T11:06:01.875867+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2023-10-30T11:06:01.876270+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2023-10-30T11:06:01.876646+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2023-10-30T11:06:01.876995+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2023-10-30T11:06:01.877392+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2023-10-30T11:06:01.877734+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2023-10-30T11:06:01.878092+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2023-10-30T11:06:01.878469+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2023-10-30T11:06:01.878841+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2023-10-30T11:06:01.879219+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2023-10-30T11:06:01.879644+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2023-10-30T11:06:01.880027+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2023-10-30T11:06:01.880405+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2023-10-30T11:06:01.880797+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2023-10-30T11:06:01.881198+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2023-10-30T11:06:01.881564+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2023-10-30T11:06:01.881962+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2023-10-30T11:06:01.882355+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2023-10-30T11:06:01.882842+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2023-10-30T11:06:01.883468+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2023-10-30T11:06:01.884022+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2023-10-30T11:06:01.884516+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2023-10-30T11:06:01.885033+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2023-10-30T11:06:01.885587+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2023-10-30T11:06:01.886083+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2023-10-30T11:06:01.886566+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2023-10-30T11:06:01.887000+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2023-10-30T11:06:01.887403+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2023-10-30T11:06:01.887788+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2023-10-30T11:06:01.888198+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2023-10-30T11:06:01.888918+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2023-10-30T11:06:01.889562+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2023-10-30T11:06:01.890076+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2023-10-30T11:06:01.890603+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2023-10-30T11:06:01.891122+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2023-10-30T11:06:01.891646+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2023-10-30T11:06:01.892209+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2023-10-30T11:06:01.892715+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2023-10-30T11:06:01.893291+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2023-10-30T11:06:01.893876+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2023-10-30T11:06:01.894450+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2023-10-30T11:06:01.895047+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2023-10-30T11:06:01.895634+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2023-10-30T11:06:01.896079+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2023-10-30T11:06:01.896598+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2023-10-30T11:06:01.897114+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2023-10-30T11:06:01.897585+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2023-10-30T11:06:01.898057+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2023-10-30T11:06:01.898571+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2023-10-30T11:06:01.899071+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2023-10-30T11:06:01.899554+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2023-10-30T11:06:01.899917+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2023-10-30T11:06:01.900284+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2023-10-30T11:06:01.900646+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2023-10-30T11:06:01.901001+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2023-10-30T11:06:01.901440+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2023-10-30T11:06:01.901802+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2023-10-30T11:06:01.902165+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2023-10-30T11:06:01.902538+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2023-10-30T11:06:01.902913+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2023-10-30T11:06:01.903274+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2023-10-30T11:06:01.903634+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2023-10-30T11:06:01.904050+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2023-10-30T11:06:01.904418+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2023-10-30T11:06:01.904784+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2023-10-30T11:06:01.905219+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2023-10-30T11:06:01.905592+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2023-10-30T11:06:01.905958+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2023-10-30T11:06:01.906330+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2023-10-30T11:06:01.906697+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2023-10-30T11:06:01.907128+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2023-10-30T11:06:01.907500+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2023-10-30T11:06:01.907887+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2023-10-30T11:06:01.908264+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2023-10-30T11:06:01.908634+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2023-10-30T11:06:01.909012+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2023-10-30T11:06:01.909404+00:00] main.INFO: Add of item with id Rohit_Tate::userstory5 was processed [] []
+[2023-10-30T11:06:01.909770+00:00] main.INFO: Add of item with id Rohit_Tate::custom_menu was processed [] []
+[2023-10-30T11:06:01.910170+00:00] main.INFO: Add of item with id Rohit_Tate::custom_submenu was processed [] []
