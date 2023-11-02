@@ -3,9 +3,16 @@ namespace Rohit\Tate\Plugin;
 
 class ModifyProductDescription
 {
-    public function afterToHtml(\Magento\Catalog\Block\Product\View\Description $subject, $result)
+    protected $vari = false;
+    public function afterGetProduct(\Magento\Catalog\Block\Product\View\Description $subject, $result)
     {
-        // Modify the product description
-        return 'Modified Product Description: '. $result;
+        // var_dump($result);
+
+        if(!$this->vari){
+            $curr=$result->getData('description');
+            $newdis =$curr . "<br><p>custom rohit description</p>";
+            $result->setDescription($newdis);
+            $this->vari =true;
+        }
     }
 }

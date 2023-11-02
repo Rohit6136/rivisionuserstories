@@ -2837,6 +2837,14 @@
         'instance' => 'TNW\\Stripe\\Plugin\\Quote\\Api\\CartManagement',
       ),
     ),
+    'Magento\\Customer\\Api\\AddressRepositoryInterface' => 
+    array (
+      'ssValidateAddress' => 
+      array (
+        'sortOrder' => 5,
+        'instance' => 'Pyxl\\SmartyStreets\\Plugin\\Customer\\SaveAddressPlugin',
+      ),
+    ),
     'Magento\\Theme\\Block\\Html\\Footer' => 
     array (
       'changeCopyrightText' => 
@@ -2864,11 +2872,6 @@
     ),
     'Magento\\Catalog\\Block\\Product\\View\\Description' => 
     array (
-      'custom_modify_product_description' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\ModifyProductDescription',
-      ),
       'Rohit_Tate_modify_product_description' => 
       array (
         'sortOrder' => 0,
@@ -7797,6 +7800,14 @@
         'instance' => 'PayPal\\Braintree\\Plugin\\AddFlagForVirtualProducts',
       ),
     ),
+    'Magento\\Customer\\Api\\AddressRepositoryInterface' => 
+    array (
+      'ssValidateAddress' => 
+      array (
+        'sortOrder' => 5,
+        'instance' => 'Pyxl\\SmartyStreets\\Plugin\\Customer\\SaveAddressPlugin',
+      ),
+    ),
     'Magento\\Theme\\Block\\Html\\Footer' => 
     array (
       'changeCopyrightText' => 
@@ -7824,11 +7835,6 @@
     ),
     'Magento\\Catalog\\Block\\Product\\View\\Description' => 
     array (
-      'custom_modify_product_description' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\ModifyProductDescription',
-      ),
       'Rohit_Tate_modify_product_description' => 
       array (
         'sortOrder' => 0,
@@ -11240,6 +11246,10 @@
         0 => 'braintreeAddFlagForVirtualProducts',
       ),
     ),
+    'Magento\\Customer\\Api\\AddressRepositoryInterface_save___self' => 
+    array (
+      2 => 'ssValidateAddress',
+    ),
     'Magento\\Theme\\Block\\Html\\Footer_getCopyright___self' => 
     array (
       4 => 
@@ -11261,12 +11271,11 @@
         0 => 'appendBreadcrumb',
       ),
     ),
-    'Magento\\Catalog\\Block\\Product\\View\\Description_toHtml___self' => 
+    'Magento\\Catalog\\Block\\Product\\View\\Description_getProduct___self' => 
     array (
       4 => 
       array (
-        0 => 'custom_modify_product_description',
-        1 => 'Rohit_Tate_modify_product_description',
+        0 => 'Rohit_Tate_modify_product_description',
       ),
     ),
   ),

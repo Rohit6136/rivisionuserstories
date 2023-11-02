@@ -14,15 +14,10 @@
         <plugin name="changeWelcomeMessage" type="Rohit\Tate\Plugin\Header" />
     </type>
 
-
     <type name="Magento\Theme\Block\Html\Breadcrumbs">
         <plugin name="appendBreadcrumb" type="Rohit\Tate\Plugin\Breadcrumbs" disabled="false"/>
     </type>
-
-    <type name="Magento\Catalog\Block\Product\View\Description">
-        <plugin name="custom_modify_product_description" type="Rohit\Tate\Plugin\ModifyProductDescription" />
-    </type>
-
+    
     <type name="Magento\Catalog\Block\Product\View\Description">
         <plugin name="Rohit_Tate_modify_product_description" type="Rohit\Tate\Plugin\ModifyProductDescription" />
     </type>

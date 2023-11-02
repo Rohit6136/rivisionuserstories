@@ -17,9 +17,9 @@ class Interceptor extends \Magento\Catalog\Block\Product\View\Description implem
     /**
      * {@inheritdoc}
      */
-    public function toHtml()
+    public function getProduct()
     {
-        $pluginInfo = $this->pluginList->getNext($this->subjectType, 'toHtml');
-        return $pluginInfo ? $this->___callPlugins('toHtml', func_get_args(), $pluginInfo) : parent::toHtml();
+        $pluginInfo = $this->pluginList->getNext($this->subjectType, 'getProduct');
+        return $pluginInfo ? $this->___callPlugins('getProduct', func_get_args(), $pluginInfo) : parent::getProduct();
     }
 }

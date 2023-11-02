@@ -31,7 +31,7 @@ return [
         'connection' => [
             'default' => [
                 'host' => 'localhost',
-                'dbname' => 'magento2',
+                'dbname' => 'magento',
                 'username' => 'rohit',
                 'password' => 'hbwsl@123',
                 'model' => 'mysql4',

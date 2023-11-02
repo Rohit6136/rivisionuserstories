@@ -1,6 +1,0 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1698663607;s:6:"expire";i:1698667207;s:4:"tags";s:57:"f73_BLOCK_HTML,f73_CAT_C,f73_CAT_C_3,f73_CAT_C_6,f73_MAGE";}
-
-<nav class="navigation" data-action="navigation">
-    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
-        <li  class="level0 nav-1 category-item first active level-top parent"><a href="http://rohit.magento.com/index.php/yamaha.html"  class="level-top" ><span>yamaha</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first last"><a href="http://rohit.magento.com/index.php/yamaha/sports-bike.html" ><span>sports bike</span></a></li></ul></li><li  class="level0 nav-2 category-item last level-top"><a href="http://rohit.magento.com/index.php/hoodies.html"  class="level-top" ><span>Hoodies</span></a></li>            </ul>
-</nav>

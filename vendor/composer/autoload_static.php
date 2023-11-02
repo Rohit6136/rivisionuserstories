@@ -574,6 +574,7 @@ class ComposerStaticInitfe0def1d05d0310a2d507158aaf1c127
             'Symfony\\Component\\Config\\' => 25,
             'Stripe\\' => 7,
             'SpomkyLabs\\Pki\\' => 15,
+            'SmartyStreets\\PhpSdk\\' => 21,
             'Seld\\Signal\\' => 12,
             'Seld\\PharUtils\\' => 15,
             'Seld\\JsonLint\\' => 14,
@@ -1241,6 +1242,10 @@ class ComposerStaticInitfe0def1d05d0310a2d507158aaf1c127
         'SpomkyLabs\\Pki\\' => 
         array (
             0 => __DIR__ . '/..' . '/spomky-labs/pki-framework/src',
+        ),
+        'SmartyStreets\\PhpSdk\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/smartystreets/phpsdk/src',
         ),
         'Seld\\Signal\\' => 
         array (

@@ -9,7 +9,7 @@ use Psr\Log\LoggerInterface;
 class HtmlLogger implements ObserverInterface
 {
     protected $logger;
-    protected $response;
+    // protected $response;
 
     public function __construct(LoggerInterface $logger)
     {

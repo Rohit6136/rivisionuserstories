@@ -18,6 +18,4 @@ class CustomBlock extends Template
         return "<h1>hello world</h1>";
         $html;
     }
-
-
 }
