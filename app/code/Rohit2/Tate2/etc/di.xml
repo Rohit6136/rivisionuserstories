@@ -8,19 +8,22 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
 
     <type name="Magento\Catalog\Model\Product">
-        <plugin name="appendOnSale" type="Rohit\Tate2\Plugin2\Product"  disabled="false"/>
+        <plugin name="appendOnSale2" type="Rohit2\Tate2\Plugin\Product2"  disabled="false"/>
     </type>
 
     <type name="Magento\Theme\Block\Html\Footer">
-        <plugin name="changeCopyrightText" type="Rohit2\Tate2\Plugin\Copyrightplugin" />
+        <plugin name="changeCopyrightText2" type="Rohit2\Tate2\Plugin\Copyrightplugin2" />
     </type>
 
     <type name="Magento\Theme\Block\Html\Header">
-        <plugin name="changeWelcomeMessage" type="Rohit2\Tate2\Plugin\Header" />
+        <plugin name="changeWelcomeMessage2" type="Rohit2\Tate2\Plugin\Header2" />
     </type>
 
     <type name="Magento\Theme\Block\Html\Breadcrumbs">
-        <plugin name="appendBreadcrumb" type="Rohit\Tate2\Plugin2\Breadcrumbs" disabled="false"/>
+        <plugin name="appendBreadcrumb2" type="Rohit2\Tate2\Plugin\Breadcrumbs2" disabled="false"/>
     </type>
 
+    <type name="Magento\Catalog\Block\Product\View\Description">
+        <plugin name="Rohit_Tate_modify_product_description2" type="Rohit2\Tate2\Plugin\ModifyProductDescription2" />
+    </type>
 </config>
