@@ -9,7 +9,7 @@
     <event name="catalog_controller_product_view">
         <observer name="Userstory3" instance="Rohit2\Tate2\Observer\Userstory3" shared="false" />
     </event>
-     <event name="controller_front_send_response_before">
-        <observer name="userstory32" instance="Rohit2\Tate2\Observer\userstory32" />
+    <event name="controller_front_send_response_before">
+        <observer name="Userstory32" instance="Rohit2\Tate2\Observer\Userstory32" />
     </event>
 </config>

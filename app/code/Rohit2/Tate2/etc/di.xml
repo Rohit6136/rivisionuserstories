@@ -6,4 +6,21 @@
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+
+    <type name="Magento\Catalog\Model\Product">
+        <plugin name="appendOnSale" type="Rohit\Tate2\Plugin2\Product"  disabled="false"/>
+    </type>
+
+    <type name="Magento\Theme\Block\Html\Footer">
+        <plugin name="changeCopyrightText" type="Rohit2\Tate2\Plugin\Copyrightplugin" />
+    </type>
+
+    <type name="Magento\Theme\Block\Html\Header">
+        <plugin name="changeWelcomeMessage" type="Rohit2\Tate2\Plugin\Header" />
+    </type>
+
+    <type name="Magento\Theme\Block\Html\Breadcrumbs">
+        <plugin name="appendBreadcrumb" type="Rohit\Tate2\Plugin2\Breadcrumbs" disabled="false"/>
+    </type>
+
 </config>
