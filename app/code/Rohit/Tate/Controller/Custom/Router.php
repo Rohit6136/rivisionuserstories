@@ -1,41 +1,55 @@
 <?php
 namespace Rohit\Tate\Controller\Custom;
 
+use Magento\Framework\App\Action\Forward;
 use Magento\Framework\App\ActionFactory;
 use Magento\Framework\App\ActionInterface;
 use Magento\Framework\App\RequestInterface;
 use Magento\Framework\App\ResponseInterface;
 use Magento\Framework\App\RouterInterface;
 
+
 class Router implements RouterInterface
 {
     protected $actionFactory;
-
-    public function __construct(ActionFactory $actionFactory)
-    {
+    protected $response;
+    public function __construct(
+        ActionFactory $actionFactory,
+        ResponseInterface $response
+    ) {
         $this->actionFactory = $actionFactory;
+        $this->response = $response;
     }
+    
     public function match(RequestInterface $request): ?ActionInterface
     {
+                                                                                                             
         $identifier = trim($request->getPathInfo(), '/');
-        $urlParts = explode('/', $identifier);
+        
+        $lastWord = $identifier;
 
-        // Ensure that the URL structure matches the expected format
-        if (count($urlParts) === 1) {
-            $url = $urlParts[0];
-            
-            // Extract individual parts using regex pattern
-            if (preg_match('/^([A-Z][a-z]+)([A-Z][a-z]+)([A-Z][a-z]+)$/', $url, $matches)) {
-                $moduleName = strtolower($matches[1]);
-                $controllerName = strtolower($matches[2]);
-                $actionName = strtolower($matches[3]);
-                
-                $request->setModuleName($moduleName)
-                        ->setControllerName($controllerName)
-                        ->setActionName($actionName);
-
-                return $this->actionFactory->create(\Magento\Framework\App\Action\Forward::class, ['request' => $request]);
+            $url=[];
+            $finalurl=""; 
+            $cnt=0;   
+            for($i=0;$i<strlen($lastWord);$i++){
+                if($i != 0 && $lastWord[$i]>="A" && $lastWord[$i]<="Z"){
+                    $lower = strtolower($lastWord[$i]);
+                    array_push($url,$finalurl);
+                    $finalurl = "";
+                    $finalurl = $finalurl.$lower;
+                    $cnt=$cnt+1;
+                }else{
+                    $lower = strtolower($lastWord[$i]);
+                    $finalurl = $finalurl.$lower;    
+                }
             }
+            array_push($url,$finalurl);  
+
+        if ($cnt==2) {
+            $request->setModuleName($url[0]);
+            $request->setControllerName($url[1]);
+            $request->setActionName($url[2]);
+            return $this->actionFactory->create(Forward::class, ['request' => $request]);
         }
         return null;
     }
