@@ -12462,7 +12462,13 @@
       4 => 
       array (
         0 => 'Rohit_Tate_modify_product_description2',
-        1 => 'Rohit_Tate_modify_product_description',
+      ),
+    ),
+    'Magento\\Catalog\\Block\\Product\\View\\Description_toHtml___self' => 
+    array (
+      4 => 
+      array (
+        0 => 'Rohit_Tate_modify_product_description',
       ),
     ),
     'Magento\\Eav\\Model\\Adminhtml\\System\\Config\\Source\\Inputtype_toOptionArray___self' => 

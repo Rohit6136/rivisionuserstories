@@ -1,0 +1,8 @@
+<script>
+    function disableProduct() {
+        <?php $id = $block->getCurrentProduct()->getId() ?>
+        <?php $block->disableProduct($id)?>
+
+    }
+</script>
+<button onclick="disableProduct()">Disable Product</button>

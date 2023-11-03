@@ -16,6 +16,5 @@ class CustomBlock extends Template
     {
         // Implement post-rendering logic here
         return "<h1>hello world</h1>";
-        $html;
     }
 }
