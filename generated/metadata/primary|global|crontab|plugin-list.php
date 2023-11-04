@@ -435,18 +435,6 @@
         'sortOrder' => 0,
         'instance' => 'Magento\\Swatches\\Model\\Plugin\\Product',
       ),
-      'appendOnSale2' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Product2',
-      ),
-      'appendOnSale' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit\\Tate\\Plugin\\Product',
-      ),
     ),
     'Magento\\Cms\\Model\\PageRepository\\ValidationComposite' => 
     array (
@@ -2851,60 +2839,6 @@
         'instance' => 'Pyxl\\SmartyStreets\\Plugin\\Customer\\SaveAddressPlugin',
       ),
     ),
-    'Magento\\Theme\\Block\\Html\\Footer' => 
-    array (
-      'changeCopyrightText2' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Copyrightplugin2',
-      ),
-      'changeCopyrightText' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\Copyrightplugin',
-      ),
-    ),
-    'Magento\\Theme\\Block\\Html\\Header' => 
-    array (
-      'changeWelcomeMessage2' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Header2',
-      ),
-      'changeWelcomeMessage' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\Header',
-      ),
-    ),
-    'Magento\\Theme\\Block\\Html\\Breadcrumbs' => 
-    array (
-      'appendBreadcrumb2' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Breadcrumbs2',
-      ),
-      'appendBreadcrumb' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit\\Tate\\Plugin\\Breadcrumbs',
-      ),
-    ),
-    'Magento\\Catalog\\Block\\Product\\View\\Description' => 
-    array (
-      'Rohit_Tate_modify_product_description2' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\ModifyProductDescription2',
-      ),
-      'Rohit_Tate_modify_product_description' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\ModifyProductDescription',
-      ),
-    ),
     'Magento\\CatalogRule\\Model\\Rule' => 
     array (
       'addVariationsToProductRule' => 
@@ -3538,18 +3472,6 @@
       array (
         'sortOrder' => 0,
         'instance' => 'Magento\\Swatches\\Model\\Plugin\\Product',
-      ),
-      'appendOnSale2' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Product2',
-      ),
-      'appendOnSale' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit\\Tate\\Plugin\\Product',
       ),
       'cms' => 
       array (
@@ -6709,60 +6631,6 @@
         'instance' => 'Pyxl\\SmartyStreets\\Plugin\\Customer\\SaveAddressPlugin',
       ),
     ),
-    'Magento\\Theme\\Block\\Html\\Footer' => 
-    array (
-      'changeCopyrightText2' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Copyrightplugin2',
-      ),
-      'changeCopyrightText' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\Copyrightplugin',
-      ),
-    ),
-    'Magento\\Theme\\Block\\Html\\Header' => 
-    array (
-      'changeWelcomeMessage2' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Header2',
-      ),
-      'changeWelcomeMessage' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\Header',
-      ),
-    ),
-    'Magento\\Theme\\Block\\Html\\Breadcrumbs' => 
-    array (
-      'appendBreadcrumb2' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\Breadcrumbs2',
-      ),
-      'appendBreadcrumb' => 
-      array (
-        'sortOrder' => 0,
-        'disabled' => false,
-        'instance' => 'Rohit\\Tate\\Plugin\\Breadcrumbs',
-      ),
-    ),
-    'Magento\\Catalog\\Block\\Product\\View\\Description' => 
-    array (
-      'Rohit_Tate_modify_product_description2' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit2\\Tate2\\Plugin\\ModifyProductDescription2',
-      ),
-      'Rohit_Tate_modify_product_description' => 
-      array (
-        'sortOrder' => 0,
-        'instance' => 'Rohit\\Tate\\Plugin\\ModifyProductDescription',
-      ),
-    ),
     'Magento\\Rule\\Model\\AbstractModel' => NULL,
     'Magento\\CatalogRule\\Api\\Data\\RuleInterface' => NULL,
     'Magento\\CatalogRule\\Model\\Rule' => 
@@ -7325,14 +7193,6 @@
       4 => 
       array (
         0 => 'exclude_swatch_attribute',
-      ),
-    ),
-    'Magento\\Catalog\\Model\\Product_getName___self' => 
-    array (
-      4 => 
-      array (
-        0 => 'appendOnSale2',
-        1 => 'appendOnSale',
       ),
     ),
     'Magento\\Cms\\Model\\PageRepository\\ValidationComposite_save___self' => 
@@ -9934,44 +9794,6 @@
     'Magento\\Customer\\Api\\AddressRepositoryInterface_save___self' => 
     array (
       2 => 'ssValidateAddress',
-    ),
-    'Magento\\Theme\\Block\\Html\\Footer_getCopyright___self' => 
-    array (
-      4 => 
-      array (
-        0 => 'changeCopyrightText2',
-        1 => 'changeCopyrightText',
-      ),
-    ),
-    'Magento\\Theme\\Block\\Html\\Header_getWelcome___self' => 
-    array (
-      4 => 
-      array (
-        0 => 'changeWelcomeMessage2',
-        1 => 'changeWelcomeMessage',
-      ),
-    ),
-    'Magento\\Theme\\Block\\Html\\Breadcrumbs_addCrumb___self' => 
-    array (
-      1 => 
-      array (
-        0 => 'appendBreadcrumb2',
-        1 => 'appendBreadcrumb',
-      ),
-    ),
-    'Magento\\Catalog\\Block\\Product\\View\\Description_getProduct___self' => 
-    array (
-      4 => 
-      array (
-        0 => 'Rohit_Tate_modify_product_description2',
-      ),
-    ),
-    'Magento\\Catalog\\Block\\Product\\View\\Description_toHtml___self' => 
-    array (
-      4 => 
-      array (
-        0 => 'Rohit_Tate_modify_product_description',
-      ),
     ),
     'Magento\\CatalogRule\\Model\\Rule_getMatchingProductIds___self' => 
     array (

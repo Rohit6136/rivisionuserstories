@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+
+        <referenceContainer name="content">
+
+            <block class="Rohit2\Tate2\Block\Employee\Form" name="employee_form" template="Rohit2_Tate2::form.phtml"/>
+
+            <block class="Rohit2\Tate2\Block\Employee\Table" name="employee_table2" template="Rohit2_Tate2::table.phtml"/>
+
+
+        </referenceContainer>
+
+        
+    </body>
+</page>

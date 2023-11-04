@@ -1293,6 +1293,7 @@
   'paypal\\braintree\\controller\\webhook\\fraudprotection' => 'PayPal\\Braintree\\Controller\\Webhook\\FraudProtection',
   'rohit2\\tate2\\controller\\adminhtml\\access\\index' => 'Rohit2\\Tate2\\Controller\\Adminhtml\\Access\\Index',
   'rohit2\\tate2\\controller\\custom\\index' => 'Rohit2\\Tate2\\Controller\\Custom\\Index',
+  'rohit2\\tate2\\controller\\index\\employee' => 'Rohit2\\Tate2\\Controller\\Index\\Employee',
   'rohit2\\tate2\\controller\\index\\userstory1' => 'Rohit2\\Tate2\\Controller\\Index\\Userstory1',
   'rohit2\\tate2\\controller\\index\\userstory5' => 'Rohit2\\Tate2\\Controller\\Index\\Userstory5',
   'rohit\\tate\\controller\\adminhtml\\access\\displaytext' => 'Rohit\\Tate\\Controller\\Adminhtml\\Access\\DisplayText',

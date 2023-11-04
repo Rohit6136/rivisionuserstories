@@ -11,5 +11,6 @@
     </event>
     <event name="controller_front_send_response_before">
         <observer name="Userstory32" instance="Rohit2\Tate2\Observer\Userstory32" />
+        <observer name="router_logger" instance="Rohit2\Tate2\Observer\RouterLogger" />
     </event>
 </config>
