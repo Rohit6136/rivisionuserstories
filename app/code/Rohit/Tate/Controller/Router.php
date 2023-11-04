@@ -1,5 +1,5 @@
 <?php
-namespace Rohit\Tate\Controller\Custom;
+namespace Rohit\Tate\Controller;
 
 use Magento\Framework\App\Action\Forward;
 use Magento\Framework\App\ActionFactory;
@@ -23,10 +23,12 @@ class Router implements RouterInterface
     
     public function match(RequestInterface $request): ?ActionInterface
     {
+        // dump($request);
                                                                                                              
         $identifier = trim($request->getPathInfo(), '/');
         
         $lastWord = $identifier;
+        dump($lastWord);
 
             $url=[];
             $finalurl=""; 
@@ -43,12 +45,15 @@ class Router implements RouterInterface
                     $finalurl = $finalurl.$lower;    
                 }
             }
+
             array_push($url,$finalurl);  
+            // dump($url);
 
         if ($cnt==2) {
             $request->setModuleName($url[0]);
             $request->setControllerName($url[1]);
             $request->setActionName($url[2]);
+            // dump($request);
             return $this->actionFactory->create(Forward::class, ['request' => $request]);
         }
         return null;

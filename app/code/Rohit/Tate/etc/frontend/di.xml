@@ -26,8 +26,8 @@
         <arguments>
             <argument name="routerList" xsi:type="array">
                 <item name="customRoute" xsi:type="array" >
-                    <item name="class"  xsi:type="string">Rohit\Tate\Controller\Custom\Router</item>
-                    <item name="customRouter" xsi:type="object">Rohit\Tate\Controller\Custom\Router2</item>
+                    <item name="class"  xsi:type="string">Rohit\Tate\Controller\Router</item>
+                    <item name="customRouter" xsi:type="object">Rohit\Tate\Controller\Router2</item>
                     <item name="disable" xsi:type="boolean">false</item>
                     <item name="sortOrder" xsi:type="string">40</item>
                 </item>

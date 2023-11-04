@@ -1,5 +1,5 @@
 <?php
-namespace Rohit\Tate\Controller\Custom;
+namespace Rohit\Tate\Controller;
 
 use Magento\Framework\App\Action\Forward;
 use Magento\Framework\App\ActionFactory;
