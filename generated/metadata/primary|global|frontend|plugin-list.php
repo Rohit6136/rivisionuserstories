@@ -3511,7 +3511,7 @@
     ),
     'Magento\\Catalog\\Block\\Product\\View\\Description' => 
     array (
-      'Rohit_Tate_modify_product_description2' => 
+      'Rohit2_Tate2_modify_product_description2' => 
       array (
         'sortOrder' => 0,
         'instance' => 'Rohit2\\Tate2\\Plugin\\ModifyProductDescription2',
@@ -9433,7 +9433,7 @@
     ),
     'Magento\\Catalog\\Block\\Product\\View\\Description' => 
     array (
-      'Rohit_Tate_modify_product_description2' => 
+      'Rohit2_Tate2_modify_product_description2' => 
       array (
         'sortOrder' => 0,
         'instance' => 'Rohit2\\Tate2\\Plugin\\ModifyProductDescription2',
@@ -13649,7 +13649,7 @@
     array (
       4 => 
       array (
-        0 => 'Rohit_Tate_modify_product_description2',
+        0 => 'Rohit2_Tate2_modify_product_description2',
       ),
     ),
     'Magento\\Catalog\\Block\\Product\\View\\Description_toHtml___self' => 

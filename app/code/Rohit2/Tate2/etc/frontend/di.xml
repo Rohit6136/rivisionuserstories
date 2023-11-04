@@ -24,7 +24,7 @@
     </type>
 
     <type name="Magento\Catalog\Block\Product\View\Description">
-        <plugin name="Rohit_Tate_modify_product_description2" type="Rohit2\Tate2\Plugin\ModifyProductDescription2" />
+        <plugin name="Rohit2_Tate2_modify_product_description2" type="Rohit2\Tate2\Plugin\ModifyProductDescription2" />
     </type>
 
 </config>

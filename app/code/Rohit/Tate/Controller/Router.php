@@ -28,7 +28,7 @@ class Router implements RouterInterface
         $identifier = trim($request->getPathInfo(), '/');
         
         $lastWord = $identifier;
-        dump($lastWord);
+        // dump($lastWord);
 
             $url=[];
             $finalurl=""; 

@@ -21,7 +21,8 @@ if ($employeeCollection && count($employeeCollection) > 0) :
                 <td><?php echo $employee->getEmployeeId(); ?></td>
                 <td><?php echo $employee->getFirstName(); ?></td>
                 <td><?php echo $employee->getLastName(); ?></td>
-                <td><?php echo $employee->getEmailId(); ?></td>
+               <td><?php echo $employee->getEmailId(); ?></td>
+               <td><?php echo $employee->geta(); ?></td>
             </tr>
         <?php endforeach; ?>
     </tbody>

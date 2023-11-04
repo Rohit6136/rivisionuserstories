@@ -5,4 +5,10 @@
         <add id="Rohit2_Tate2::userstory52" title="userstory52" module="Rohit2_Tate2" sortOrder="20"  resource="Rohit2_Tate2::userstory52" action="userstory52/access"/>
     </menu>
 
+      <menu>
+        <add id="Rohit2_Tate2::custom_menu" title="Custom Menu" module="Rohit2_Tate2" sortOrder="200" resource="Magento_Backend::content" />
+
+        <add id="Rohit2_Tate2::custom_submenu" title="Custom Submenu" module="Rohit2_Tate2" sortOrder="10" parent="Rohit2_Tate2::custom_menu" action="userstory52/access/displaytext" resource="Magento_Backend::content"/>
+    </menu>
+
 </config>

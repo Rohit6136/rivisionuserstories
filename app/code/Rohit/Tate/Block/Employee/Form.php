@@ -19,18 +19,13 @@ class Form extends Template
         // Replace 'employee/index/save' with the actual route and action where you want to process the form data.
         return $this->getUrl('user/index/employee');
     }
-
-    /**
-     * Get the form field names and IDs
-     *
-     * @return array
-     */
     public function getFormFieldNames()
     {
         return [
             'first_name' => 'first_name',
             'last_name' => 'last_name',
             'email' => 'email',
+            'address' => 'address',
         ];
     }
 }
